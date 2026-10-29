@@ -1,0 +1,203 @@
+{
+  "args": {
+    "contributors": 20,
+    "updates": 50,
+    "batch": 1024,
+    "seed": 7
+  },
+  "storage_bytes": {
+    "TrustRegistryFull": {
+      "per_contributor": 32,
+      "per_update": 64
+    },
+    "TrustRegistryEvent": {
+      "per_contributor": 32,
+      "per_update": 0
+    },
+    "TrustRegistryQuorum": {
+      "per_contributor": 128,
+      "per_update": 0
+    },
+    "TrustAnchorBatch": {
+      "per_contributor": 0,
+      "per_update": 0.0625
+    }
+  },
+  "summary": [
+    {
+      "design": "TrustRegistryFull",
+      "op": "deploy",
+      "n": 1,
+      "gas_mean": 613555,
+      "gas_sd": 0,
+      "gas_min": 613555,
+      "gas_max": 613555,
+      "spec_exec_ms_mean": 3.5
+    },
+    {
+      "design": "TrustRegistryEvent",
+      "op": "deploy",
+      "n": 1,
+      "gas_mean": 577046,
+      "gas_sd": 0,
+      "gas_min": 577046,
+      "gas_max": 577046,
+      "spec_exec_ms_mean": 2.3
+    },
+    {
+      "design": "TrustAnchorBatch",
+      "op": "deploy",
+      "n": 1,
+      "gas_mean": 458670,
+      "gas_sd": 0,
+      "gas_min": 458670,
+      "gas_max": 458670,
+      "spec_exec_ms_mean": 1.8
+    },
+    {
+      "design": "TrustRegistryQuorum",
+      "op": "deploy",
+      "n": 1,
+      "gas_mean": 833544,
+      "gas_sd": 0,
+      "gas_min": 833544,
+      "gas_max": 833544,
+      "spec_exec_ms_mean": 4.1
+    },
+    {
+      "design": "TrustRegistryFull",
+      "op": "register",
+      "n": 20,
+      "gas_mean": 94482,
+      "gas_sd": 4,
+      "gas_min": 94471,
+      "gas_max": 94483,
+      "spec_exec_ms_mean": 3.7
+    },
+    {
+      "design": "TrustRegistryEvent",
+      "op": "register",
+      "n": 20,
+      "gas_mean": 49908,
+      "gas_sd": 4,
+      "gas_min": 49897,
+      "gas_max": 49909,
+      "spec_exec_ms_mean": 3.4
+    },
+    {
+      "design": "TrustRegistryQuorum",
+      "op": "register",
+      "n": 20,
+      "gas_mean": 49723,
+      "gas_sd": 4,
+      "gas_min": 49712,
+      "gas_max": 49724,
+      "spec_exec_ms_mean": 3.8
+    },
+    {
+      "design": "TrustRegistryFull",
+      "op": "update",
+      "n": 1000,
+      "gas_mean": 77620,
+      "gas_sd": 182,
+      "gas_min": 77404,
+      "gas_max": 77800,
+      "spec_exec_ms_mean": 4.5
+    },
+    {
+      "design": "TrustRegistryEvent",
+      "op": "update",
+      "n": 1000,
+      "gas_mean": 32814,
+      "gas_sd": 182,
+      "gas_min": 32598,
+      "gas_max": 32994,
+      "spec_exec_ms_mean": 3.5
+    },
+    {
+      "design": "TrustRegistryQuorum",
+      "op": "submit",
+      "n": 3000,
+      "gas_mean": 66794,
+      "gas_sd": 25557,
+      "gas_min": 48086,
+      "gas_max": 119726,
+      "spec_exec_ms_mean": 6.6
+    },
+    {
+      "design": "TrustRegistryQuorum",
+      "op": "update(3 submits)",
+      "n": 1000,
+      "gas_mean": 200381,
+      "gas_sd": 6909,
+      "gas_min": 198795,
+      "gas_max": 249002,
+      "spec_exec_ms_mean": null
+    },
+    {
+      "design": "TrustRegistryFull",
+      "op": "correction",
+      "n": 5,
+      "gas_mean": 77565,
+      "gas_sd": 6,
+      "gas_min": 77558,
+      "gas_max": 77570,
+      "spec_exec_ms_mean": 4.1
+    },
+    {
+      "design": "TrustRegistryEvent",
+      "op": "correction",
+      "n": 5,
+      "gas_mean": 32409,
+      "gas_sd": 6,
+      "gas_min": 32402,
+      "gas_max": 32414,
+      "spec_exec_ms_mean": 3.1
+    },
+    {
+      "design": "All designs",
+      "op": "assignReviewers(3)",
+      "n": 20,
+      "gas_mean": 29539,
+      "gas_sd": 7,
+      "gas_min": 29521,
+      "gas_max": 29545,
+      "spec_exec_ms_mean": 3.2
+    },
+    {
+      "design": "TrustRegistryQuorum",
+      "op": "correction",
+      "n": 5,
+      "gas_mean": 32507,
+      "gas_sd": 6,
+      "gas_min": 32500,
+      "gas_max": 32512,
+      "spec_exec_ms_mean": 4.1
+    },
+    {
+      "design": "TrustAnchorBatch",
+      "op": "anchor(1024 records)",
+      "n": 10,
+      "gas_mean": 70739,
+      "gas_sd": 0,
+      "gas_min": 70739,
+      "gas_max": 70739,
+      "spec_exec_ms_mean": 3.1
+    },
+    {
+      "design": "TrustAnchorBatch",
+      "op": "verify(proof=10)",
+      "n": 20,
+      "gas_mean": 36256,
+      "gas_sd": 29,
+      "gas_min": 36200,
+      "gas_max": 36290,
+      "spec_exec_ms_mean": 5.6
+    }
+  ],
+  "checks": {
+    "latest_matches_last_write": true,
+    "merkle_verify_ok": 20,
+    "tampered_leaf_rejected": true
+  }
+}

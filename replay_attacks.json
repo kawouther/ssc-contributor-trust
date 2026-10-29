@@ -1,0 +1,355 @@
+[
+  {
+    "repo": "xz",
+    "scenario": "git signals only",
+    "attackers": {
+      "jia tan": {
+        "n_events": 451,
+        "first": 1651755222,
+        "malicious": [
+          {
+            "sha": "cf44e4b7",
+            "date": "2024-02-23",
+            "subject": "Tests: Add a few test files.",
+            "S": 0.25,
+            "E": [
+              1.0,
+              1.0,
+              -1.0,
+              0.0
+            ],
+            "risk": 7,
+            "level_at_submission": {
+              "M34": "L2",
+              "MovingAvg": "L1",
+              "BetaRep": "L1",
+              "Proposed": "L1"
+            },
+            "score_before": {
+              "M34": 1.0,
+              "MovingAvg": 0.425,
+              "BetaRep": 0.425,
+              "Proposed": 0.405
+            },
+            "score_after": {
+              "M34": 1.0,
+              "MovingAvg": 0.4,
+              "BetaRep": 0.415,
+              "Proposed": 0.382
+            }
+          },
+          {
+            "sha": "328c52da",
+            "date": "2024-02-26",
+            "subject": "Build: Fix Linux Landlock feature test in Autotools and CMake builds.",
+            "S": -0.25,
+            "E": [
+              1.0,
+              -1.0,
+              -1.0,
+              0.0
+            ],
+            "risk": 8,
+            "level_at_submission": {
+              "M34": "L2",
+              "MovingAvg": "L1",
+              "BetaRep": "L1",
+              "Proposed": "L1"
+            },
+            "score_before": {
+              "M34": 1.0,
+              "MovingAvg": 0.375,
+              "BetaRep": 0.407,
+              "Proposed": 0.404
+            },
+            "score_after": {
+              "M34": 0.55,
+              "MovingAvg": 0.325,
+              "BetaRep": 0.375,
+              "Proposed": 0.142
+            }
+          },
+          {
+            "sha": "6e636819",
+            "date": "2024-03-09",
+            "subject": "Tests: Update two test files.",
+            "S": 0.25,
+            "E": [
+              1.0,
+              1.0,
+              -1.0,
+              0.0
+            ],
+            "risk": 7,
+            "level_at_submission": {
+              "M34": "L2",
+              "MovingAvg": "L1",
+              "BetaRep": "L1",
+              "Proposed": "L1"
+            },
+            "score_before": {
+              "M34": 1.0,
+              "MovingAvg": 0.4,
+              "BetaRep": 0.371,
+              "Proposed": 0.354
+            },
+            "score_after": {
+              "M34": 1.0,
+              "MovingAvg": 0.375,
+              "BetaRep": 0.364,
+              "Proposed": 0.338
+            }
+          }
+        ],
+        "first_flag_before_discovery": {
+          "M34": null,
+          "MovingAvg": null,
+          "BetaRep": null,
+          "Proposed": {
+            "sha": "d4af1675",
+            "date": "2023-11-22",
+            "subject": "CMake: Change __attribute__((__ifunc__())) detection.",
+            "score": -0.023
+          }
+        },
+        "min_score_before_discovery": {
+          "M34": 0.19,
+          "MovingAvg": 0.25,
+          "BetaRep": 0.153,
+          "Proposed": -0.023
+        }
+      },
+      "hans jansen": {
+        "n_events": 5,
+        "first": 1687456015,
+        "malicious": [],
+        "first_flag_before_discovery": {
+          "M34": null,
+          "MovingAvg": null,
+          "BetaRep": null,
+          "Proposed": null
+        },
+        "min_score_before_discovery": {
+          "M34": 0.75,
+          "MovingAvg": 0.75,
+          "BetaRep": 0.153,
+          "Proposed": 0.112
+        }
+      }
+    }
+  },
+  {
+    "repo": "event-stream",
+    "scenario": "git signals only",
+    "attackers": {
+      "北川": {
+        "n_events": 16,
+        "first": 1536048735,
+        "malicious": [
+          {
+            "sha": "e3163361",
+            "date": "2018-09-09",
+            "subject": "add flat map",
+            "S": -0.25,
+            "E": [
+              1.0,
+              -1.0,
+              -1.0,
+              0.0
+            ],
+            "risk": 7,
+            "level_at_submission": {
+              "M34": "L2",
+              "MovingAvg": "L1",
+              "BetaRep": "L1",
+              "Proposed": "L1"
+            },
+            "score_before": {
+              "M34": 1.0,
+              "MovingAvg": 0.375,
+              "BetaRep": 0.26,
+              "Proposed": 0.278
+            },
+            "score_after": {
+              "M34": 0.55,
+              "MovingAvg": 0.306,
+              "BetaRep": 0.21,
+              "Proposed": 0.066
+            }
+          }
+        ],
+        "first_flag_before_discovery": {
+          "M34": {
+            "sha": "a74c9b2a",
+            "date": "2018-09-04",
+            "subject": "upgrade dependencies",
+            "score": -0.25
+          },
+          "MovingAvg": {
+            "sha": "a74c9b2a",
+            "date": "2018-09-04",
+            "subject": "upgrade dependencies",
+            "score": -0.25
+          },
+          "BetaRep": {
+            "sha": "a74c9b2a",
+            "date": "2018-09-04",
+            "subject": "upgrade dependencies",
+            "score": -0.051
+          },
+          "Proposed": {
+            "sha": "a74c9b2a",
+            "date": "2018-09-04",
+            "subject": "upgrade dependencies",
+            "score": -0.1
+          }
+        },
+        "min_score_before_discovery": {
+          "M34": -0.25,
+          "MovingAvg": -0.25,
+          "BetaRep": -0.051,
+          "Proposed": -0.1
+        }
+      }
+    }
+  },
+  {
+    "repo": "xz",
+    "scenario": "git signals + release-tarball reproducibility check",
+    "attackers": {
+      "jia tan": {
+        "n_events": 453,
+        "first": 1651755222,
+        "malicious": [
+          {
+            "sha": "cf44e4b7",
+            "date": "2024-02-23",
+            "subject": "Tests: Add a few test files.",
+            "S": 0.25,
+            "E": [
+              1.0,
+              1.0,
+              -1.0,
+              0.0
+            ],
+            "risk": 7,
+            "level_at_submission": {
+              "M34": "L2",
+              "MovingAvg": "L1",
+              "BetaRep": "L1",
+              "Proposed": "L1"
+            },
+            "score_before": {
+              "M34": 1.0,
+              "MovingAvg": 0.425,
+              "BetaRep": 0.425,
+              "Proposed": 0.405
+            },
+            "score_after": {
+              "M34": 1.0,
+              "MovingAvg": 0.4,
+              "BetaRep": 0.415,
+              "Proposed": 0.382
+            }
+          },
+          {
+            "sha": "328c52da",
+            "date": "2024-02-26",
+            "subject": "Build: Fix Linux Landlock feature test in Autotools and CMake builds.",
+            "S": -0.25,
+            "E": [
+              1.0,
+              -1.0,
+              -1.0,
+              0.0
+            ],
+            "risk": 8,
+            "level_at_submission": {
+              "M34": "L2",
+              "MovingAvg": "L1",
+              "BetaRep": "L1",
+              "Proposed": "restricted"
+            },
+            "score_before": {
+              "M34": 1.0,
+              "MovingAvg": 0.325,
+              "BetaRep": 0.379,
+              "Proposed": -0.6
+            },
+            "score_after": {
+              "M34": 0.55,
+              "MovingAvg": 0.275,
+              "BetaRep": 0.349,
+              "Proposed": -0.6
+            }
+          },
+          {
+            "sha": "6e636819",
+            "date": "2024-03-09",
+            "subject": "Tests: Update two test files.",
+            "S": 0.25,
+            "E": [
+              1.0,
+              1.0,
+              -1.0,
+              0.0
+            ],
+            "risk": 7,
+            "level_at_submission": {
+              "M34": "L2",
+              "MovingAvg": "L1",
+              "BetaRep": "L1",
+              "Proposed": "restricted"
+            },
+            "score_before": {
+              "M34": 1.0,
+              "MovingAvg": 0.4,
+              "BetaRep": 0.355,
+              "Proposed": -0.6
+            },
+            "score_after": {
+              "M34": 1.0,
+              "MovingAvg": 0.375,
+              "BetaRep": 0.349,
+              "Proposed": -0.6
+            }
+          }
+        ],
+        "first_flag_before_discovery": {
+          "M34": null,
+          "MovingAvg": null,
+          "BetaRep": null,
+          "Proposed": {
+            "sha": "d4af1675",
+            "date": "2023-11-22",
+            "subject": "CMake: Change __attribute__((__ifunc__())) detection.",
+            "score": -0.023
+          }
+        },
+        "min_score_before_discovery": {
+          "M34": 0.19,
+          "MovingAvg": 0.25,
+          "BetaRep": 0.153,
+          "Proposed": -0.6
+        }
+      },
+      "hans jansen": {
+        "n_events": 5,
+        "first": 1687456015,
+        "malicious": [],
+        "first_flag_before_discovery": {
+          "M34": null,
+          "MovingAvg": null,
+          "BetaRep": null,
+          "Proposed": null
+        },
+        "min_score_before_discovery": {
+          "M34": 0.75,
+          "MovingAvg": 0.75,
+          "BetaRep": 0.153,
+          "Proposed": 0.112
+        }
+      }
+    }
+  }
+]

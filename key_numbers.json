@@ -1,0 +1,453 @@
+{
+ "syn_M34": {
+  "honest_flag": 0.005,
+  "honest_burden": 0.0,
+  "honest_L2": 0.9974,
+  "careless_L2": 0.9562,
+  "longcon_exp": 28.85,
+  "longcon_det": 0.215,
+  "longcon_ttd": 45.0698,
+  "onoff_exp": 154.765,
+  "ww_exp": 56.225,
+  "ww_ident": 1.795,
+  "mal_exp": 56.125,
+  "mal_acts": 59.335,
+  "longcon_acts": 30.13,
+  "onoff_acts": 154.765
+ },
+ "syn_MovingAvg": {
+  "honest_flag": 0,
+  "honest_burden": 0.0,
+  "honest_L2": 0.816,
+  "careless_L2": 0.1387,
+  "longcon_exp": 8.395,
+  "longcon_det": 0,
+  "longcon_ttd": null,
+  "onoff_exp": 44.5,
+  "ww_exp": 15.205,
+  "ww_ident": 1.14,
+  "mal_exp": 15.075,
+  "mal_acts": 59.335,
+  "longcon_acts": 30.13,
+  "onoff_acts": 44.5
+ },
+ "syn_BetaRep": {
+  "honest_flag": 0,
+  "honest_burden": 0.0,
+  "honest_L2": 0.4998,
+  "careless_L2": 0.0001,
+  "longcon_exp": 1.39,
+  "longcon_det": 0,
+  "longcon_ttd": null,
+  "onoff_exp": 13.885,
+  "ww_exp": 0.22,
+  "ww_ident": 1.175,
+  "mal_exp": 0.21,
+  "mal_acts": 59.335,
+  "longcon_acts": 30.13,
+  "onoff_acts": 13.885
+ },
+ "syn_Proposed": {
+  "honest_flag": 0.035,
+  "honest_burden": 0.0002,
+  "honest_L2": 0.7086,
+  "careless_L2": 0.0576,
+  "longcon_exp": 1.335,
+  "longcon_det": 1,
+  "longcon_ttd": 3,
+  "onoff_exp": 7.685,
+  "ww_exp": 2.73,
+  "ww_ident": 31.095,
+  "mal_exp": 0.125,
+  "mal_acts": 59.335,
+  "longcon_acts": 30.13,
+  "onoff_acts": 7.685
+ },
+ "ablation": {
+  "Proposed": {
+   "honest": 0.035,
+   "longcon": 1.335,
+   "onoff": 7.685,
+   "whitewash": 2.73
+  },
+  "-asymmetry": {
+   "honest": 0,
+   "longcon": 1.32,
+   "onoff": 9.55,
+   "whitewash": 4.245
+  },
+  "-critical rule": {
+   "honest": 0.035,
+   "longcon": 3.805,
+   "onoff": 27.085,
+   "whitewash": 5.43
+  },
+  "-probation": {
+   "honest": 0.035,
+   "longcon": 1.335,
+   "onoff": 7.68,
+   "whitewash": 3.625
+  }
+ },
+ "collusion": {
+  "open|M34": {
+   "0": [
+    0.995,
+    0.0
+   ],
+   "2": [
+    0.994,
+    0.0
+   ],
+   "5": [
+    0.9937,
+    0.0
+   ],
+   "10": [
+    0.9927,
+    0.0
+   ]
+  },
+  "open|Proposed": {
+   "0": [
+    0.6251,
+    0.0
+   ],
+   "2": [
+    0.3069,
+    0.0047
+   ],
+   "5": [
+    0.0487,
+    0.3104
+   ],
+   "10": [
+    -0.0563,
+    0.8758
+   ]
+  },
+  "open|Proposed (rep: mean)": {
+   "0": [
+    0.6248,
+    0.0
+   ],
+   "2": [
+    0.2863,
+    0.002
+   ],
+   "5": [
+    0.0828,
+    0.0989
+   ],
+   "10": [
+    -0.0416,
+    0.7633
+   ]
+  },
+  "assigned|M34": {
+   "0": [
+    0.995,
+    0.0
+   ],
+   "2": [
+    0.9942,
+    0.0
+   ],
+   "5": [
+    0.9952,
+    0.0
+   ],
+   "10": [
+    0.9957,
+    0.0
+   ]
+  },
+  "assigned|Proposed": {
+   "0": [
+    0.6251,
+    0.0
+   ],
+   "2": [
+    0.5895,
+    0.0
+   ],
+   "5": [
+    0.5321,
+    0.0
+   ],
+   "10": [
+    0.4576,
+    0.0
+   ]
+  },
+  "assigned|Proposed (rep: mean)": {
+   "0": [
+    0.6248,
+    0.0
+   ],
+   "2": [
+    0.5882,
+    0.0
+   ],
+   "5": [
+    0.5327,
+    0.0
+   ],
+   "10": [
+    0.4609,
+    0.0
+   ]
+  }
+ },
+ "replay|xz|git only|cf44e4b7": {
+  "M34": [
+   "L2",
+   1.0
+  ],
+  "MovingAvg": [
+   "L1",
+   0.425
+  ],
+  "BetaRep": [
+   "L1",
+   0.425
+  ],
+  "Proposed": [
+   "L1",
+   0.405
+  ]
+ },
+ "replay|xz|git only|328c52da": {
+  "M34": [
+   "L2",
+   1.0
+  ],
+  "MovingAvg": [
+   "L1",
+   0.375
+  ],
+  "BetaRep": [
+   "L1",
+   0.407
+  ],
+  "Proposed": [
+   "L1",
+   0.404
+  ]
+ },
+ "replay|xz|git only|6e636819": {
+  "M34": [
+   "L2",
+   1.0
+  ],
+  "MovingAvg": [
+   "L1",
+   0.4
+  ],
+  "BetaRep": [
+   "L1",
+   0.371
+  ],
+  "Proposed": [
+   "L1",
+   0.354
+  ]
+ },
+ "replay_flag|xz|git only|jia tan": {
+  "M34": null,
+  "MovingAvg": null,
+  "BetaRep": null,
+  "Proposed": {
+   "sha": "d4af1675",
+   "date": "2023-11-22",
+   "subject": "CMake: Change __attribute__((__ifunc__())) detection.",
+   "score": -0.023
+  }
+ },
+ "replay_flag|xz|git only|hans jansen": {
+  "M34": null,
+  "MovingAvg": null,
+  "BetaRep": null,
+  "Proposed": null
+ },
+ "replay|event-stream|git only|e3163361": {
+  "M34": [
+   "L2",
+   1.0
+  ],
+  "MovingAvg": [
+   "L1",
+   0.375
+  ],
+  "BetaRep": [
+   "L1",
+   0.26
+  ],
+  "Proposed": [
+   "L1",
+   0.278
+  ]
+ },
+ "replay_flag|event-stream|git only|北川": {
+  "M34": {
+   "sha": "a74c9b2a",
+   "date": "2018-09-04",
+   "subject": "upgrade dependencies",
+   "score": -0.25
+  },
+  "MovingAvg": {
+   "sha": "a74c9b2a",
+   "date": "2018-09-04",
+   "subject": "upgrade dependencies",
+   "score": -0.25
+  },
+  "BetaRep": {
+   "sha": "a74c9b2a",
+   "date": "2018-09-04",
+   "subject": "upgrade dependencies",
+   "score": -0.051
+  },
+  "Proposed": {
+   "sha": "a74c9b2a",
+   "date": "2018-09-04",
+   "subject": "upgrade dependencies",
+   "score": -0.1
+  }
+ },
+ "replay|xz|git + tarball check|cf44e4b7": {
+  "M34": [
+   "L2",
+   1.0
+  ],
+  "MovingAvg": [
+   "L1",
+   0.425
+  ],
+  "BetaRep": [
+   "L1",
+   0.425
+  ],
+  "Proposed": [
+   "L1",
+   0.405
+  ]
+ },
+ "replay|xz|git + tarball check|328c52da": {
+  "M34": [
+   "L2",
+   1.0
+  ],
+  "MovingAvg": [
+   "L1",
+   0.325
+  ],
+  "BetaRep": [
+   "L1",
+   0.379
+  ],
+  "Proposed": [
+   "restricted",
+   -0.6
+  ]
+ },
+ "replay|xz|git + tarball check|6e636819": {
+  "M34": [
+   "L2",
+   1.0
+  ],
+  "MovingAvg": [
+   "L1",
+   0.4
+  ],
+  "BetaRep": [
+   "L1",
+   0.355
+  ],
+  "Proposed": [
+   "restricted",
+   -0.6
+  ]
+ },
+ "replay_flag|xz|git + tarball check|jia tan": {
+  "M34": null,
+  "MovingAvg": null,
+  "BetaRep": null,
+  "Proposed": {
+   "sha": "d4af1675",
+   "date": "2023-11-22",
+   "subject": "CMake: Change __attribute__((__ifunc__())) detection.",
+   "score": -0.023
+  }
+ },
+ "replay_flag|xz|git + tarball check|hans jansen": {
+  "M34": null,
+  "MovingAvg": null,
+  "BetaRep": null,
+  "Proposed": null
+ },
+ "pop_M34": {
+  "n": 225,
+  "commits": 63948,
+  "flag": 0.04,
+  "extra": 0.0003693333333333334,
+  "L2": 0.8984391111111111,
+  "toL2": 1.0
+ },
+ "pop_MovingAvg": {
+  "n": 225,
+  "commits": 63948,
+  "flag": 0.0044444444444444444,
+  "extra": 0.00021066666666666665,
+  "L2": 0.7368844444444445,
+  "toL2": 1.0
+ },
+ "pop_BetaRep": {
+  "n": 225,
+  "commits": 63948,
+  "flag": 0.0,
+  "extra": 0.0,
+  "L2": 0.45740977777777775,
+  "toL2": 8.0
+ },
+ "pop_Proposed": {
+  "n": 225,
+  "commits": 63948,
+  "flag": 0.07555555555555556,
+  "extra": 0.0027346666666666665,
+  "L2": 0.2741657777777778,
+  "toL2": 15.0
+ },
+ "gas": {
+  "A: full history in storage": {
+   "deploy": 613555,
+   "register": 94482,
+   "update": 77620,
+   "sd": 182,
+   "storage": 64
+  },
+  "B: latest score + event log": {
+   "deploy": 577046,
+   "register": 49908,
+   "update": 32814,
+   "sd": 182,
+   "storage": 0
+  },
+  "C: Merkle anchor per epoch": {
+   "deploy": 458670,
+   "register": null,
+   "update": 69.0810546875,
+   "sd": 0,
+   "storage": 0.0625
+  },
+  "D: B + 3-of-5 evaluator quorum": {
+   "deploy": 833544,
+   "register": 49723,
+   "update": 200381,
+   "sd": 6909,
+   "storage": 0
+  },
+  "verify": 36256,
+  "anchor": 70739,
+  "assign3": 29539
+ }
+}

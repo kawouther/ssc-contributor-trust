@@ -1,0 +1,582 @@
+[
+ {
+  "scenario": "honest",
+  "p_obs": null,
+  "model": "Proposed",
+  "private": false,
+  "fp_ever": {
+   "mean": 0.035,
+   "sd": 0.1838,
+   "ci95": 0.0255,
+   "n": 200
+  },
+  "burden": {
+   "mean": 0.0002,
+   "sd": 0.0012,
+   "ci95": 0.0002,
+   "n": 200
+  },
+  "frac_L2": {
+   "mean": 0.7086,
+   "sd": 0.0977,
+   "ci95": 0.0135,
+   "n": 200
+  },
+  "t_L2": {
+   "mean": 16.17,
+   "sd": 5.226,
+   "ci95": 0.7243,
+   "n": 200
+  },
+  "t_L2_never": 0.0
+ },
+ {
+  "scenario": "honest",
+  "p_obs": null,
+  "model": "-asymmetry",
+  "private": false,
+  "fp_ever": {
+   "mean": 0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "burden": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "frac_L2": {
+   "mean": 0.7227,
+   "sd": 0.071,
+   "ci95": 0.0098,
+   "n": 200
+  },
+  "t_L2": {
+   "mean": 13.225,
+   "sd": 2.5089,
+   "ci95": 0.3477,
+   "n": 200
+  },
+  "t_L2_never": 0.0
+ },
+ {
+  "scenario": "honest",
+  "p_obs": null,
+  "model": "-critical rule",
+  "private": false,
+  "fp_ever": {
+   "mean": 0.035,
+   "sd": 0.1838,
+   "ci95": 0.0255,
+   "n": 200
+  },
+  "burden": {
+   "mean": 0.0002,
+   "sd": 0.0012,
+   "ci95": 0.0002,
+   "n": 200
+  },
+  "frac_L2": {
+   "mean": 0.7086,
+   "sd": 0.0977,
+   "ci95": 0.0135,
+   "n": 200
+  },
+  "t_L2": {
+   "mean": 16.17,
+   "sd": 5.226,
+   "ci95": 0.7243,
+   "n": 200
+  },
+  "t_L2_never": 0.0
+ },
+ {
+  "scenario": "honest",
+  "p_obs": null,
+  "model": "-probation",
+  "private": false,
+  "fp_ever": {
+   "mean": 0.035,
+   "sd": 0.1838,
+   "ci95": 0.0255,
+   "n": 200
+  },
+  "burden": {
+   "mean": 0.0002,
+   "sd": 0.0012,
+   "ci95": 0.0002,
+   "n": 200
+  },
+  "frac_L2": {
+   "mean": 0.7157,
+   "sd": 0.0975,
+   "ci95": 0.0135,
+   "n": 200
+  },
+  "t_L2": {
+   "mean": 14.275,
+   "sd": 5.905,
+   "ci95": 0.8184,
+   "n": 200
+  },
+  "t_L2_never": 0.0
+ },
+ {
+  "scenario": "longcon",
+  "p_obs": 0.5,
+  "model": "Proposed",
+  "private": false,
+  "exposure": {
+   "mean": 1.335,
+   "sd": 1.0163,
+   "ci95": 0.1408,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 30.13,
+   "sd": 4.1368,
+   "ci95": 0.5733,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.0451,
+   "sd": 0.035,
+   "ci95": 0.0049,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3,
+   "sd": 4.6195,
+   "ci95": 0.6402,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "longcon",
+  "p_obs": 0.5,
+  "model": "-asymmetry",
+  "private": false,
+  "exposure": {
+   "mean": 1.32,
+   "sd": 1.0572,
+   "ci95": 0.1465,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 30.13,
+   "sd": 4.1368,
+   "ci95": 0.5733,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.0448,
+   "sd": 0.0382,
+   "ci95": 0.0053,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3.035,
+   "sd": 4.7428,
+   "ci95": 0.6573,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "longcon",
+  "p_obs": 0.5,
+  "model": "-critical rule",
+  "private": false,
+  "exposure": {
+   "mean": 3.805,
+   "sd": 2.1603,
+   "ci95": 0.2994,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 30.13,
+   "sd": 4.1368,
+   "ci95": 0.5733,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.1327,
+   "sd": 0.0871,
+   "ci95": 0.0121,
+   "n": 200
+  },
+  "detected": {
+   "mean": 0.76,
+   "sd": 0.4271,
+   "ci95": 0.0592,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 37.0132,
+   "sd": 28.8688,
+   "ci95": 4.5895,
+   "n": 152
+  }
+ },
+ {
+  "scenario": "longcon",
+  "p_obs": 0.5,
+  "model": "-probation",
+  "private": false,
+  "exposure": {
+   "mean": 1.335,
+   "sd": 1.0163,
+   "ci95": 0.1408,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 30.13,
+   "sd": 4.1368,
+   "ci95": 0.5733,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.0451,
+   "sd": 0.035,
+   "ci95": 0.0049,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3,
+   "sd": 4.6195,
+   "ci95": 0.6402,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "onoff",
+  "p_obs": 0.5,
+  "model": "Proposed",
+  "private": false,
+  "exposure": {
+   "mean": 7.685,
+   "sd": 2.469,
+   "ci95": 0.3422,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 7.685,
+   "sd": 2.469,
+   "ci95": 0.3422,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 1.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3.12,
+   "sd": 5.2092,
+   "ci95": 0.722,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "onoff",
+  "p_obs": 0.5,
+  "model": "-asymmetry",
+  "private": false,
+  "exposure": {
+   "mean": 9.55,
+   "sd": 2.6995,
+   "ci95": 0.3741,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 9.55,
+   "sd": 2.6995,
+   "ci95": 0.3741,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 1.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 2.37,
+   "sd": 3.9816,
+   "ci95": 0.5518,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "onoff",
+  "p_obs": 0.5,
+  "model": "-critical rule",
+  "private": false,
+  "exposure": {
+   "mean": 27.085,
+   "sd": 4.533,
+   "ci95": 0.6282,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 27.085,
+   "sd": 4.533,
+   "ci95": 0.6282,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 1.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "detected": {
+   "mean": 0.13,
+   "sd": 0.3363,
+   "ci95": 0.0466,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 92.5769,
+   "sd": 58.1207,
+   "ci95": 22.3409,
+   "n": 26
+  }
+ },
+ {
+  "scenario": "onoff",
+  "p_obs": 0.5,
+  "model": "-probation",
+  "private": false,
+  "exposure": {
+   "mean": 7.68,
+   "sd": 2.4531,
+   "ci95": 0.34,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 7.68,
+   "sd": 2.4531,
+   "ci95": 0.34,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 1.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3.39,
+   "sd": 5.6778,
+   "ci95": 0.7869,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "whitewash",
+  "p_obs": 0.5,
+  "model": "Proposed",
+  "private": false,
+  "exposure": {
+   "mean": 2.73,
+   "sd": 2.0802,
+   "ci95": 0.2883,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 59.335,
+   "sd": 5.9693,
+   "ci95": 0.8273,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.0474,
+   "sd": 0.0381,
+   "ci95": 0.0053,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3.59,
+   "sd": 5.2576,
+   "ci95": 0.7287,
+   "n": 200
+  },
+  "identities": {
+   "mean": 31.095,
+   "sd": 5.4595,
+   "ci95": 0.7566,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "whitewash",
+  "p_obs": 0.5,
+  "model": "-asymmetry",
+  "private": false,
+  "exposure": {
+   "mean": 4.245,
+   "sd": 2.3906,
+   "ci95": 0.3313,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 59.335,
+   "sd": 5.9693,
+   "ci95": 0.8273,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.0736,
+   "sd": 0.045,
+   "ci95": 0.0062,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3.725,
+   "sd": 5.4083,
+   "ci95": 0.7495,
+   "n": 200
+  },
+  "identities": {
+   "mean": 30.555,
+   "sd": 5.2179,
+   "ci95": 0.7232,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "whitewash",
+  "p_obs": 0.5,
+  "model": "-critical rule",
+  "private": false,
+  "exposure": {
+   "mean": 5.43,
+   "sd": 3.0635,
+   "ci95": 0.4246,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 59.335,
+   "sd": 5.9693,
+   "ci95": 0.8273,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.094,
+   "sd": 0.0571,
+   "ci95": 0.0079,
+   "n": 200
+  },
+  "detected": {
+   "mean": 0.96,
+   "sd": 0.196,
+   "ci95": 0.0272,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 35.599,
+   "sd": 41.1436,
+   "ci95": 5.8198,
+   "n": 192
+  },
+  "identities": {
+   "mean": 5.935,
+   "sd": 2.9817,
+   "ci95": 0.4132,
+   "n": 200
+  }
+ },
+ {
+  "scenario": "whitewash",
+  "p_obs": 0.5,
+  "model": "-probation",
+  "private": false,
+  "exposure": {
+   "mean": 3.625,
+   "sd": 2.3758,
+   "ci95": 0.3293,
+   "n": 200
+  },
+  "malicious_acts": {
+   "mean": 59.335,
+   "sd": 5.9693,
+   "ci95": 0.8273,
+   "n": 200
+  },
+  "exposure_rate": {
+   "mean": 0.0626,
+   "sd": 0.0435,
+   "ci95": 0.006,
+   "n": 200
+  },
+  "detected": {
+   "mean": 1,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 200
+  },
+  "ttd": {
+   "mean": 3.59,
+   "sd": 5.2576,
+   "ci95": 0.7287,
+   "n": 200
+  },
+  "identities": {
+   "mean": 31.095,
+   "sd": 5.4595,
+   "ci95": 0.7566,
+   "n": 200
+  }
+ }
+]

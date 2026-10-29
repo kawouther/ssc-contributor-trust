@@ -1,0 +1,901 @@
+repo,author,model,commits,ever_flagged,ever_restricted,frac_extra_review,frac_L2,commits_to_L2
+xz,lasse collin,M34,2525,1,0,0.0004,0.9952,2
+xz,lasse collin,MovingAvg,2525,0,0,0.0,0.3149,2
+xz,lasse collin,BetaRep,2525,0,0,0.0,0.0243,1301
+xz,lasse collin,Proposed,2525,1,0,0.0036,0.107,62
+xz,adrien nader,M34,11,0,0,0.0,1.0,1
+xz,adrien nader,MovingAvg,11,0,0,0.0,1.0,1
+xz,adrien nader,BetaRep,11,0,0,0.0,1.0,8
+xz,adrien nader,Proposed,11,0,0,0.0,0.0,
+xz,sam james,M34,22,0,0,0.0,1.0,1
+xz,sam james,MovingAvg,22,0,0,0.0,1.0,1
+xz,sam james,BetaRep,22,0,0,0.0,1.0,10
+xz,sam james,Proposed,22,0,0,0.0,0.75,12
+event-stream,dominic tarr,M34,217,0,0,0.0,0.9903,3
+event-stream,dominic tarr,MovingAvg,217,0,0,0.0,0.029,48
+event-stream,dominic tarr,BetaRep,217,0,0,0.0,0.0,
+event-stream,dominic tarr,Proposed,217,1,0,0.0097,0.0145,48
+zlib,mark adler,M34,734,1,0,0.0014,0.9848,1
+zlib,mark adler,MovingAvg,734,0,0,0.0,0.4558,1
+zlib,mark adler,BetaRep,734,0,0,0.0,0.0,
+zlib,mark adler,Proposed,734,1,0,0.0262,0.0787,188
+zlib,nathan moinvaziri,M34,10,0,0,0.0,0.0,1
+zlib,nathan moinvaziri,MovingAvg,10,0,0,0.0,0.0,1
+zlib,nathan moinvaziri,BetaRep,10,0,0,0.0,0.0,8
+zlib,nathan moinvaziri,Proposed,10,0,0,0.0,0.0,
+zlib,vollstrecker,M34,251,0,0,0.0,1.0,1
+zlib,vollstrecker,MovingAvg,251,0,0,0.0,1.0,1
+zlib,vollstrecker,BetaRep,251,0,0,0.0,1.0,8
+zlib,vollstrecker,Proposed,251,0,0,0.0,0.9751,12
+zlib,werner,M34,10,0,0,0.0,0.0,1
+zlib,werner,MovingAvg,10,0,0,0.0,0.0,1
+zlib,werner,BetaRep,10,0,0,0.0,0.0,8
+zlib,werner,Proposed,10,0,0,0.0,0.0,
+lz4,yann.collet.73@gmail.com,M34,115,0,0,0.0,1.0,1
+lz4,yann.collet.73@gmail.com,MovingAvg,115,0,0,0.0,0.6095,1
+lz4,yann.collet.73@gmail.com,BetaRep,115,0,0,0.0,0.0,
+lz4,yann.collet.73@gmail.com,Proposed,115,0,0,0.0,0.0,
+lz4,yann collet,M34,1808,0,0,0.0,0.9944,1
+lz4,yann collet,MovingAvg,1808,0,0,0.0,0.7558,1
+lz4,yann collet,BetaRep,1808,0,0,0.0,0.3242,115
+lz4,yann collet,Proposed,1808,1,0,0.0033,0.5095,107
+lz4,takayuki matsuoka,M34,126,1,0,0.0086,0.9397,2
+lz4,takayuki matsuoka,MovingAvg,126,0,0,0.0,0.5345,14
+lz4,takayuki matsuoka,BetaRep,126,0,0,0.0,0.0,
+lz4,takayuki matsuoka,Proposed,126,1,0,0.0776,0.2155,27
+lz4,inikep,M34,16,0,0,0.0,0.6667,1
+lz4,inikep,MovingAvg,16,0,0,0.0,0.5,1
+lz4,inikep,BetaRep,16,0,0,0.0,0.0,
+lz4,inikep,Proposed,16,0,0,0.0,0.0,
+lz4,przemyslaw skibinski,M34,160,1,0,0.0067,0.9667,1
+lz4,przemyslaw skibinski,MovingAvg,160,0,0,0.0,0.6,1
+lz4,przemyslaw skibinski,BetaRep,160,0,0,0.0,0.2333,121
+lz4,przemyslaw skibinski,Proposed,160,1,0,0.0333,0.4333,42
+lz4,nick terrell,M34,51,0,0,0.0,1.0,1
+lz4,nick terrell,MovingAvg,51,0,0,0.0,1.0,1
+lz4,nick terrell,BetaRep,51,0,0,0.0,0.2927,24
+lz4,nick terrell,Proposed,51,0,0,0.0,0.0,
+lz4,dmitry v. levin,M34,10,0,0,0.0,0.0,1
+lz4,dmitry v. levin,MovingAvg,10,0,0,0.0,0.0,1
+lz4,dmitry v. levin,BetaRep,10,0,0,0.0,0.0,
+lz4,dmitry v. levin,Proposed,10,0,0,0.0,0.0,
+lz4,remittor,M34,10,0,0,0.0,0.0,1
+lz4,remittor,MovingAvg,10,0,0,0.0,0.0,1
+lz4,remittor,BetaRep,10,0,0,0.0,0.0,
+lz4,remittor,Proposed,10,0,0,0.0,0.0,
+lz4,alexey tourbin,M34,11,0,0,0.0,1.0,1
+lz4,alexey tourbin,MovingAvg,11,0,0,0.0,1.0,1
+lz4,alexey tourbin,BetaRep,11,0,0,0.0,0.0,
+lz4,alexey tourbin,Proposed,11,0,0,0.0,0.0,
+lz4,w. felix handte,M34,144,0,0,0.0,1.0,1
+lz4,w. felix handte,MovingAvg,144,0,0,0.0,0.9627,1
+lz4,w. felix handte,BetaRep,144,0,0,0.0,0.306,67
+lz4,w. felix handte,Proposed,144,0,0,0.0,0.7463,16
+lz4,test4973,M34,13,0,0,0.0,1.0,1
+lz4,test4973,MovingAvg,13,0,0,0.0,1.0,1
+lz4,test4973,BetaRep,13,0,0,0.0,0.0,
+lz4,test4973,Proposed,13,0,0,0.0,0.0,
+lz4,cyan4973,M34,14,0,0,0.0,1.0,2
+lz4,cyan4973,MovingAvg,14,0,0,0.0,1.0,4
+lz4,cyan4973,BetaRep,14,0,0,0.0,0.0,
+lz4,cyan4973,Proposed,14,0,0,0.0,0.0,
+lz4,jennifer liu,M34,11,0,0,0.0,1.0,1
+lz4,jennifer liu,MovingAvg,11,0,0,0.0,1.0,1
+lz4,jennifer liu,BetaRep,11,0,0,0.0,0.0,
+lz4,jennifer liu,Proposed,11,0,0,0.0,0.0,
+lz4,lzu tao,M34,32,0,0,0.0,1.0,3
+lz4,lzu tao,MovingAvg,32,0,0,0.0,0.0,4
+lz4,lzu tao,BetaRep,32,0,0,0.0,0.0,
+lz4,lzu tao,Proposed,32,0,0,0.0,0.0,
+lz4,dave watson,M34,10,0,0,0.0,0.0,1
+lz4,dave watson,MovingAvg,10,0,0,0.0,0.0,1
+lz4,dave watson,BetaRep,10,0,0,0.0,0.0,
+lz4,dave watson,Proposed,10,0,0,0.0,0.0,
+lz4,bimba shrestha,M34,12,0,0,0.0,1.0,1
+lz4,bimba shrestha,MovingAvg,12,0,0,0.0,1.0,1
+lz4,bimba shrestha,BetaRep,12,0,0,0.0,0.0,
+lz4,bimba shrestha,Proposed,12,0,0,0.0,0.0,
+lz4,nate,M34,10,0,0,0.0,0.0,1
+lz4,nate,MovingAvg,10,0,0,0.0,0.0,1
+lz4,nate,BetaRep,10,0,0,0.0,0.0,8
+lz4,nate,Proposed,10,0,0,0.0,0.0,
+lz4,alexander mohr,M34,12,0,0,0.0,1.0,1
+lz4,alexander mohr,MovingAvg,12,0,0,0.0,0.0,1
+lz4,alexander mohr,BetaRep,12,0,0,0.0,0.0,
+lz4,alexander mohr,Proposed,12,0,0,0.0,0.0,
+lz4,dependabot[bot],M34,87,0,0,0.0,1.0,1
+lz4,dependabot[bot],MovingAvg,87,0,0,0.0,1.0,1
+lz4,dependabot[bot],BetaRep,87,0,0,0.0,1.0,8
+lz4,dependabot[bot],Proposed,87,0,0,0.0,0.8831,12
+lz4,nicolas de carli,M34,13,0,0,0.0,1.0,1
+lz4,nicolas de carli,MovingAvg,13,0,0,0.0,1.0,1
+lz4,nicolas de carli,BetaRep,13,0,0,0.0,0.0,
+lz4,nicolas de carli,Proposed,13,0,0,0.0,0.0,
+lz4,jennifer lee,M34,16,0,0,0.0,1.0,1
+lz4,jennifer lee,MovingAvg,16,0,0,0.0,0.5,1
+lz4,jennifer lee,BetaRep,16,0,0,0.0,0.0,
+lz4,jennifer lee,Proposed,16,0,0,0.0,0.3333,13
+express,visionmedia,M34,1175,0,0,0.0,1.0,1
+express,visionmedia,MovingAvg,1175,0,0,0.0,0.9554,1
+express,visionmedia,BetaRep,1175,0,0,0.0,0.8249,9
+express,visionmedia,Proposed,1175,0,0,0.0,0.9279,15
+express,csausdev,M34,32,0,0,0.0,1.0,1
+express,csausdev,MovingAvg,32,0,0,0.0,1.0,1
+express,csausdev,BetaRep,32,0,0,0.0,0.9545,11
+express,csausdev,Proposed,32,0,0,0.0,0.9091,12
+express,ciaranj,M34,16,0,0,0.0,1.0,1
+express,ciaranj,MovingAvg,16,0,0,0.0,1.0,1
+express,ciaranj,BetaRep,16,0,0,0.0,0.0,
+express,ciaranj,Proposed,16,0,0,0.0,0.0,
+express,aaron heckmann,M34,52,0,0,0.0,1.0,1
+express,aaron heckmann,MovingAvg,52,0,0,0.0,0.9762,1
+express,aaron heckmann,BetaRep,52,0,0,0.0,0.8333,12
+express,aaron heckmann,Proposed,52,0,0,0.0,0.6667,12
+express,tj holowaychuk,M34,2352,1,0,0.0009,0.988,3
+express,tj holowaychuk,MovingAvg,2352,0,0,0.0,0.757,12
+express,tj holowaychuk,BetaRep,2352,0,0,0.0,0.4253,31
+express,tj holowaychuk,Proposed,2352,1,0,0.0085,0.6682,21
+express,roman shtylman,M34,54,0,0,0.0,0.9318,1
+express,roman shtylman,MovingAvg,54,0,0,0.0,0.4318,1
+express,roman shtylman,BetaRep,54,0,0,0.0,0.0,
+express,roman shtylman,Proposed,54,1,0,0.0455,0.0455,46
+express,robert sköld,M34,21,0,0,0.0,1.0,1
+express,robert sköld,MovingAvg,21,0,0,0.0,1.0,1
+express,robert sköld,BetaRep,21,0,0,0.0,1.0,8
+express,robert sköld,Proposed,21,0,0,0.0,0.8182,12
+express,jonathan ong,M34,65,0,0,0.0,0.9091,1
+express,jonathan ong,MovingAvg,65,0,0,0.0,0.2364,1
+express,jonathan ong,BetaRep,65,0,0,0.0,0.0,
+express,jonathan ong,Proposed,65,1,0,0.1455,0.1091,44
+express,blake embrey,M34,19,0,0,0.0,1.0,2
+express,blake embrey,MovingAvg,19,0,0,0.0,1.0,2
+express,blake embrey,BetaRep,19,0,0,0.0,0.8889,11
+express,blake embrey,Proposed,19,0,0,0.0,0.0,
+express,douglas christopher wilson,M34,1161,1,0,0.0009,0.9513,5
+express,douglas christopher wilson,MovingAvg,1161,0,0,0.0,0.0956,45
+express,douglas christopher wilson,BetaRep,1161,0,0,0.0,0.0,
+express,douglas christopher wilson,Proposed,1161,1,0,0.0573,0.033,47
+express,wes todd,M34,39,0,0,0.0,1.0,1
+express,wes todd,MovingAvg,39,0,0,0.0,0.9655,1
+express,wes todd,BetaRep,39,0,0,0.0,0.3793,23
+express,wes todd,Proposed,39,0,0,0.0,0.1724,16
+express,ulises gascon,M34,10,0,0,0.0,0.0,1
+express,ulises gascon,MovingAvg,10,0,0,0.0,0.0,1
+express,ulises gascon,BetaRep,10,0,0,0.0,0.0,8
+express,ulises gascon,Proposed,10,0,0,0.0,0.0,
+express,jon church,M34,20,0,0,0.0,1.0,1
+express,jon church,MovingAvg,20,0,0,0.0,1.0,1
+express,jon church,BetaRep,20,0,0,0.0,1.0,8
+express,jon church,Proposed,20,0,0,0.0,0.4,13
+express,ulises gascón,M34,37,0,0,0.0,1.0,3
+express,ulises gascón,MovingAvg,37,0,0,0.0,0.963,11
+express,ulises gascón,BetaRep,37,0,0,0.0,0.5185,23
+express,ulises gascón,Proposed,37,0,0,0.0,0.4444,17
+express,sebastian beltran,M34,22,0,0,0.0,1.0,1
+express,sebastian beltran,MovingAvg,22,0,0,0.0,1.0,1
+express,sebastian beltran,BetaRep,22,0,0,0.0,1.0,8
+express,sebastian beltran,Proposed,22,0,0,0.0,0.1667,20
+express,phillip barta,M34,14,0,0,0.0,1.0,1
+express,phillip barta,MovingAvg,14,0,0,0.0,1.0,1
+express,phillip barta,BetaRep,14,0,0,0.0,1.0,8
+express,phillip barta,Proposed,14,0,0,0.0,0.0,
+express,dependabot[bot],M34,55,0,0,0.0,1.0,1
+express,dependabot[bot],MovingAvg,55,0,0,0.0,1.0,1
+express,dependabot[bot],BetaRep,55,0,0,0.0,1.0,8
+express,dependabot[bot],Proposed,55,0,0,0.0,0.9111,12
+libarchive,tim kientzle,M34,2180,0,0,0.0,0.9991,1
+libarchive,tim kientzle,MovingAvg,2180,0,0,0.0,0.653,1
+libarchive,tim kientzle,BetaRep,2180,0,0,0.0,0.2535,130
+libarchive,tim kientzle,Proposed,2180,1,0,0.0005,0.4788,42
+libarchive,joerg sonnenberger,M34,289,0,0,0.0,1.0,1
+libarchive,joerg sonnenberger,MovingAvg,289,0,0,0.0,0.6882,1
+libarchive,joerg sonnenberger,BetaRep,289,0,0,0.0,0.086,263
+libarchive,joerg sonnenberger,Proposed,289,0,0,0.0,0.1971,15
+libarchive,michihiro nakajima,M34,1679,0,0,0.0,1.0,1
+libarchive,michihiro nakajima,MovingAvg,1679,0,0,0.0,0.6663,1
+libarchive,michihiro nakajima,BetaRep,1679,0,0,0.0,0.1786,102
+libarchive,michihiro nakajima,Proposed,1679,0,0,0.0,0.4955,12
+libarchive,björn jacke,M34,12,0,0,0.0,1.0,3
+libarchive,björn jacke,MovingAvg,12,0,0,0.0,0.0,
+libarchive,björn jacke,BetaRep,12,0,0,0.0,0.0,
+libarchive,björn jacke,Proposed,12,0,0,0.0,0.0,
+libarchive,charles wilson,M34,39,0,0,0.0,1.0,1
+libarchive,charles wilson,MovingAvg,39,0,0,0.0,0.4828,1
+libarchive,charles wilson,BetaRep,39,0,0,0.0,0.0,
+libarchive,charles wilson,Proposed,39,0,0,0.0,0.069,27
+libarchive,colin percival,M34,36,0,0,0.0,1.0,1
+libarchive,colin percival,MovingAvg,36,0,0,0.0,1.0,1
+libarchive,colin percival,BetaRep,36,0,0,0.0,0.0,
+libarchive,colin percival,Proposed,36,0,0,0.0,0.0,
+libarchive,brad king,M34,108,0,0,0.0,1.0,3
+libarchive,brad king,MovingAvg,108,0,0,0.0,0.449,24
+libarchive,brad king,BetaRep,108,0,0,0.0,0.0,
+libarchive,brad king,Proposed,108,0,0,0.0,0.051,53
+libarchive,brian harring,M34,33,0,0,0.0,1.0,1
+libarchive,brian harring,MovingAvg,33,0,0,0.0,0.913,1
+libarchive,brian harring,BetaRep,33,0,0,0.0,0.0,
+libarchive,brian harring,Proposed,33,0,0,0.0,0.0,
+libarchive,roman neuhauser,M34,55,0,0,0.0,1.0,1
+libarchive,roman neuhauser,MovingAvg,55,0,0,0.0,0.7556,1
+libarchive,roman neuhauser,BetaRep,55,0,0,0.0,0.0,
+libarchive,roman neuhauser,Proposed,55,0,0,0.0,0.2,29
+libarchive,andres mejia,M34,196,0,0,0.0,1.0,2
+libarchive,andres mejia,MovingAvg,196,0,0,0.0,0.3602,2
+libarchive,andres mejia,BetaRep,196,0,0,0.0,0.0538,81
+libarchive,andres mejia,Proposed,196,0,0,0.0,0.2473,26
+libarchive,martin matuska,M34,531,0,0,0.0,1.0,1
+libarchive,martin matuska,MovingAvg,531,0,0,0.0,0.7274,1
+libarchive,martin matuska,BetaRep,531,0,0,0.0,0.2073,111
+libarchive,martin matuska,Proposed,531,0,0,0.0,0.3992,19
+libarchive,jean-yves migeon,M34,12,0,0,0.0,1.0,1
+libarchive,jean-yves migeon,MovingAvg,12,0,0,0.0,0.0,1
+libarchive,jean-yves migeon,BetaRep,12,0,0,0.0,0.0,
+libarchive,jean-yves migeon,Proposed,12,0,0,0.0,0.0,
+libarchive,niluje,M34,14,0,0,0.0,1.0,2
+libarchive,niluje,MovingAvg,14,0,0,0.0,0.25,13
+libarchive,niluje,BetaRep,14,0,0,0.0,0.0,
+libarchive,niluje,Proposed,14,0,0,0.0,0.0,
+libarchive,mike kazantsev,M34,10,0,0,0.0,0.0,1
+libarchive,mike kazantsev,MovingAvg,10,0,0,0.0,0.0,1
+libarchive,mike kazantsev,BetaRep,10,0,0,0.0,0.0,8
+libarchive,mike kazantsev,Proposed,10,0,0,0.0,0.0,
+libarchive,sebastian freundt,M34,23,0,0,0.0,1.0,3
+libarchive,sebastian freundt,MovingAvg,23,0,0,0.0,0.8462,12
+libarchive,sebastian freundt,BetaRep,23,0,0,0.0,0.0,
+libarchive,sebastian freundt,Proposed,23,0,0,0.0,0.0,
+libarchive,graham percival,M34,52,0,0,0.0,1.0,1
+libarchive,graham percival,MovingAvg,52,0,0,0.0,0.9524,1
+libarchive,graham percival,BetaRep,52,0,0,0.0,0.7381,21
+libarchive,graham percival,Proposed,52,0,0,0.0,0.5714,18
+libarchive,mike frysinger,M34,38,0,0,0.0,1.0,1
+libarchive,mike frysinger,MovingAvg,38,0,0,0.0,0.1429,1
+libarchive,mike frysinger,BetaRep,38,0,0,0.0,0.0,
+libarchive,mike frysinger,Proposed,38,0,0,0.0,0.0,
+libarchive,ngie cooper,M34,20,0,0,0.0,1.0,1
+libarchive,ngie cooper,MovingAvg,20,0,0,0.0,1.0,1
+libarchive,ngie cooper,BetaRep,20,0,0,0.0,1.0,8
+libarchive,ngie cooper,Proposed,20,0,0,0.0,0.0,
+libarchive,sean purcell,M34,14,0,0,0.0,1.0,3
+libarchive,sean purcell,MovingAvg,14,0,0,0.0,0.0,
+libarchive,sean purcell,BetaRep,14,0,0,0.0,0.0,
+libarchive,sean purcell,Proposed,14,0,0,0.0,0.0,
+libarchive,wei-cheng pan,M34,11,0,0,0.0,1.0,1
+libarchive,wei-cheng pan,MovingAvg,11,0,0,0.0,1.0,1
+libarchive,wei-cheng pan,BetaRep,11,0,0,0.0,0.0,
+libarchive,wei-cheng pan,Proposed,11,0,0,0.0,0.0,
+libarchive,grzegorz antoniak,M34,54,0,0,0.0,1.0,1
+libarchive,grzegorz antoniak,MovingAvg,54,0,0,0.0,0.7045,1
+libarchive,grzegorz antoniak,BetaRep,54,0,0,0.0,0.4773,26
+libarchive,grzegorz antoniak,Proposed,54,0,0,0.0,0.3636,23
+libarchive,emil velikov,M34,34,0,0,0.0,1.0,1
+libarchive,emil velikov,MovingAvg,34,0,0,0.0,0.6667,1
+libarchive,emil velikov,BetaRep,34,0,0,0.0,0.0,
+libarchive,emil velikov,Proposed,34,0,0,0.0,0.0,
+libarchive,steve lhomme,M34,18,0,0,0.0,1.0,1
+libarchive,steve lhomme,MovingAvg,18,0,0,0.0,1.0,1
+libarchive,steve lhomme,BetaRep,18,0,0,0.0,0.75,12
+libarchive,steve lhomme,Proposed,18,0,0,0.0,0.5,12
+libarchive,christos zoulas,M34,13,0,0,0.0,1.0,1
+libarchive,christos zoulas,MovingAvg,13,0,0,0.0,0.3333,1
+libarchive,christos zoulas,BetaRep,13,0,0,0.0,0.0,
+libarchive,christos zoulas,Proposed,13,0,0,0.0,0.0,
+libarchive,jiat75,M34,15,0,0,0.0,1.0,1
+libarchive,jiat75,MovingAvg,15,0,0,0.0,1.0,1
+libarchive,jiat75,BetaRep,15,0,0,0.0,0.0,
+libarchive,jiat75,Proposed,15,0,0,0.0,0.0,
+libarchive,dag-erling smørgrav,M34,47,0,0,0.0,1.0,1
+libarchive,dag-erling smørgrav,MovingAvg,47,0,0,0.0,0.973,1
+libarchive,dag-erling smørgrav,BetaRep,47,0,0,0.0,0.4054,8
+libarchive,dag-erling smørgrav,Proposed,47,0,0,0.0,0.1081,21
+libarchive,rose,M34,10,0,0,0.0,0.0,1
+libarchive,rose,MovingAvg,10,0,0,0.0,0.0,1
+libarchive,rose,BetaRep,10,0,0,0.0,0.0,
+libarchive,rose,Proposed,10,0,0,0.0,0.0,
+libarchive,mostyn bramley-moore,M34,83,0,0,0.0,1.0,1
+libarchive,mostyn bramley-moore,MovingAvg,83,0,0,0.0,0.6164,1
+libarchive,mostyn bramley-moore,BetaRep,83,0,0,0.0,0.726,8
+libarchive,mostyn bramley-moore,Proposed,83,0,0,0.0,0.3562,18
+libarchive,dependabot[bot],M34,30,0,0,0.0,1.0,1
+libarchive,dependabot[bot],MovingAvg,30,0,0,0.0,1.0,1
+libarchive,dependabot[bot],BetaRep,30,0,0,0.0,1.0,8
+libarchive,dependabot[bot],Proposed,30,0,0,0.0,0.55,19
+libarchive,dustin l. howett,M34,65,0,0,0.0,1.0,1
+libarchive,dustin l. howett,MovingAvg,65,0,0,0.0,0.6909,1
+libarchive,dustin l. howett,BetaRep,65,0,0,0.0,0.1091,34
+libarchive,dustin l. howett,Proposed,65,0,0,0.0,0.2545,30
+libarchive,duncan horn,M34,18,0,0,0.0,1.0,1
+libarchive,duncan horn,MovingAvg,18,0,0,0.0,1.0,1
+libarchive,duncan horn,BetaRep,18,0,0,0.0,1.0,8
+libarchive,duncan horn,Proposed,18,0,0,0.0,0.5,12
+libarchive,tobias stoeckmann,M34,552,0,0,0.0,1.0,1
+libarchive,tobias stoeckmann,MovingAvg,552,0,0,0.0,0.7232,1
+libarchive,tobias stoeckmann,BetaRep,552,0,0,0.0,0.2085,8
+libarchive,tobias stoeckmann,Proposed,552,0,0,0.0,0.5,12
+libarchive,martin matuška,M34,10,0,0,0.0,0.0,1
+libarchive,martin matuška,MovingAvg,10,0,0,0.0,0.0,1
+libarchive,martin matuška,BetaRep,10,0,0,0.0,0.0,8
+libarchive,martin matuška,Proposed,10,0,0,0.0,0.0,
+libarchive,françois degros,M34,18,0,0,0.0,1.0,1
+libarchive,françois degros,MovingAvg,18,0,0,0.0,0.5,1
+libarchive,françois degros,BetaRep,18,0,0,0.0,0.0,
+libarchive,françois degros,Proposed,18,0,0,0.0,0.0,
+libarchive,azero13,M34,26,0,0,0.0,1.0,1
+libarchive,azero13,MovingAvg,26,0,0,0.0,1.0,1
+libarchive,azero13,BetaRep,26,0,0,0.0,0.0,
+libarchive,azero13,Proposed,26,0,0,0.0,0.0,
+libarchive,chris brown,M34,13,0,0,0.0,1.0,1
+libarchive,chris brown,MovingAvg,13,0,0,0.0,1.0,1
+libarchive,chris brown,BetaRep,13,0,0,0.0,0.0,
+libarchive,chris brown,Proposed,13,0,0,0.0,0.0,
+libarchive,i1011,M34,17,0,0,0.0,1.0,2
+libarchive,i1011,MovingAvg,17,0,0,0.0,1.0,3
+libarchive,i1011,BetaRep,17,0,0,0.0,0.0,
+libarchive,i1011,Proposed,17,0,0,0.0,0.0,
+libarchive,datauwu,M34,114,0,0,0.0,1.0,1
+libarchive,datauwu,MovingAvg,114,0,0,0.0,0.8269,1
+libarchive,datauwu,BetaRep,114,0,0,0.0,0.0481,102
+libarchive,datauwu,Proposed,114,0,0,0.0,0.6635,30
+libarchive,georgh93,M34,15,0,0,0.0,1.0,1
+libarchive,georgh93,MovingAvg,15,0,0,0.0,0.4,1
+libarchive,georgh93,BetaRep,15,0,0,0.0,0.0,
+libarchive,georgh93,Proposed,15,0,0,0.0,0.2,13
+libarchive,kaif khan,M34,22,0,0,0.0,1.0,2
+libarchive,kaif khan,MovingAvg,22,0,0,0.0,0.5833,2
+libarchive,kaif khan,BetaRep,22,0,0,0.0,0.0,
+libarchive,kaif khan,Proposed,22,0,0,0.0,0.0,
+libarchive,alb3e3,M34,11,0,0,0.0,1.0,2
+libarchive,alb3e3,MovingAvg,11,0,0,0.0,0.0,
+libarchive,alb3e3,BetaRep,11,0,0,0.0,0.0,
+libarchive,alb3e3,Proposed,11,0,0,0.0,0.0,
+libarchive,krishna28238-arch,M34,19,0,0,0.0,1.0,1
+libarchive,krishna28238-arch,MovingAvg,19,0,0,0.0,0.7778,1
+libarchive,krishna28238-arch,BetaRep,19,0,0,0.0,0.0,
+libarchive,krishna28238-arch,Proposed,19,0,0,0.0,0.5556,14
+libarchive,martin mirchev,M34,10,0,0,0.0,0.0,2
+libarchive,martin mirchev,MovingAvg,10,0,0,0.0,0.0,2
+libarchive,martin mirchev,BetaRep,10,0,0,0.0,0.0,
+libarchive,martin mirchev,Proposed,10,0,0,0.0,0.0,
+zstd,yann collet,M34,3722,1,0,0.0005,0.997,2
+zstd,yann collet,MovingAvg,3722,0,0,0.0,0.8066,11
+zstd,yann collet,BetaRep,3722,0,0,0.0,0.3279,265
+zstd,yann collet,Proposed,3722,1,0,0.0035,0.618,261
+zstd,christophe chevalier,M34,20,0,0,0.0,1.0,1
+zstd,christophe chevalier,MovingAvg,20,0,0,0.0,0.4,1
+zstd,christophe chevalier,BetaRep,20,0,0,0.0,0.0,
+zstd,christophe chevalier,Proposed,20,0,0,0.0,0.0,
+zstd,inikep,M34,461,1,0,0.0044,0.9734,1
+zstd,inikep,MovingAvg,461,0,0,0.0,0.6208,1
+zstd,inikep,BetaRep,461,0,0,0.0,0.1153,274
+zstd,inikep,Proposed,461,1,0,0.0177,0.1907,221
+zstd,nick terrell,M34,924,0,0,0.0,1.0,1
+zstd,nick terrell,MovingAvg,924,0,0,0.0,0.9158,1
+zstd,nick terrell,BetaRep,924,0,0,0.0,0.6608,32
+zstd,nick terrell,Proposed,924,0,0,0.0,0.756,14
+zstd,przemyslaw skibinski,M34,263,1,1,0.0593,0.913,1
+zstd,przemyslaw skibinski,MovingAvg,263,1,0,0.0474,0.498,1
+zstd,przemyslaw skibinski,BetaRep,263,0,0,0.0,0.0,
+zstd,przemyslaw skibinski,Proposed,263,1,0,0.087,0.253,15
+zstd,sean purcell,M34,130,0,0,0.0,0.9917,1
+zstd,sean purcell,MovingAvg,130,0,0,0.0,0.6083,1
+zstd,sean purcell,BetaRep,130,0,0,0.0,0.2167,23
+zstd,sean purcell,Proposed,130,0,0,0.0,0.425,18
+zstd,cyan4973,M34,26,0,0,0.0,1.0,1
+zstd,cyan4973,MovingAvg,26,0,0,0.0,0.5625,1
+zstd,cyan4973,BetaRep,26,0,0,0.0,0.0,
+zstd,cyan4973,Proposed,26,0,0,0.0,0.0,
+zstd,milan ševčík,M34,28,0,0,0.0,1.0,3
+zstd,milan ševčík,MovingAvg,28,0,0,0.0,0.0,
+zstd,milan ševčík,BetaRep,28,0,0,0.0,0.0,
+zstd,milan ševčík,Proposed,28,0,0,0.0,0.0,
+zstd,paul cruz,M34,306,0,0,0.0,0.9932,1
+zstd,paul cruz,MovingAvg,306,0,0,0.0,0.9595,1
+zstd,paul cruz,BetaRep,306,0,0,0.0,0.402,31
+zstd,paul cruz,Proposed,306,0,0,0.0,0.7736,12
+zstd,stella lau,M34,149,0,0,0.0,1.0,1
+zstd,stella lau,MovingAvg,149,0,0,0.0,1.0,1
+zstd,stella lau,BetaRep,149,0,0,0.0,0.3813,92
+zstd,stella lau,Proposed,149,0,0,0.0,0.6403,56
+zstd,w. felix handte,M34,582,0,0,0.0,1.0,1
+zstd,w. felix handte,MovingAvg,582,0,0,0.0,0.7745,1
+zstd,w. felix handte,BetaRep,582,0,0,0.0,0.0052,404
+zstd,w. felix handte,Proposed,582,0,0,0.0,0.2622,96
+zstd,scott baker,M34,16,0,0,0.0,1.0,1
+zstd,scott baker,MovingAvg,16,0,0,0.0,1.0,1
+zstd,scott baker,BetaRep,16,0,0,0.0,1.0,9
+zstd,scott baker,Proposed,16,0,0,0.0,0.6667,12
+zstd,björn ketelaars,M34,15,0,0,0.0,1.0,1
+zstd,björn ketelaars,MovingAvg,15,0,0,0.0,1.0,1
+zstd,björn ketelaars,BetaRep,15,0,0,0.0,0.0,
+zstd,björn ketelaars,Proposed,15,0,0,0.0,0.0,
+zstd,george lu,M34,97,0,0,0.0,1.0,1
+zstd,george lu,MovingAvg,97,0,0,0.0,0.8966,1
+zstd,george lu,BetaRep,97,0,0,0.0,0.8391,13
+zstd,george lu,Proposed,97,0,0,0.0,0.8851,12
+zstd,jennifer liu,M34,62,0,0,0.0,1.0,3
+zstd,jennifer liu,MovingAvg,62,0,0,0.0,0.9808,11
+zstd,jennifer liu,BetaRep,62,0,0,0.0,0.2115,49
+zstd,jennifer liu,Proposed,62,0,0,0.0,0.8269,15
+zstd,rohit jain,M34,13,0,0,0.0,1.0,1
+zstd,rohit jain,MovingAvg,13,0,0,0.0,1.0,1
+zstd,rohit jain,BetaRep,13,0,0,0.0,0.0,
+zstd,rohit jain,Proposed,13,0,0,0.0,0.0,
+zstd,lzu tao,M34,70,0,0,0.0,0.9667,1
+zstd,lzu tao,MovingAvg,70,0,0,0.0,0.0333,1
+zstd,lzu tao,BetaRep,70,0,0,0.0,0.0,
+zstd,lzu tao,Proposed,70,1,0,0.0167,0.0,
+zstd,yi jin,M34,18,0,0,0.0,1.0,1
+zstd,yi jin,MovingAvg,18,0,0,0.0,1.0,1
+zstd,yi jin,BetaRep,18,0,0,0.0,0.0,
+zstd,yi jin,Proposed,18,0,0,0.0,0.0,
+zstd,shakeelrao,M34,34,0,0,0.0,1.0,1
+zstd,shakeelrao,MovingAvg,34,0,0,0.0,1.0,1
+zstd,shakeelrao,BetaRep,34,0,0,0.0,0.75,16
+zstd,shakeelrao,Proposed,34,0,0,0.0,0.9167,12
+zstd,ephraim park,M34,18,0,0,0.0,1.0,1
+zstd,ephraim park,MovingAvg,18,0,0,0.0,1.0,1
+zstd,ephraim park,BetaRep,18,0,0,0.0,0.0,
+zstd,ephraim park,Proposed,18,0,0,0.0,0.25,16
+zstd,nick magerko,M34,23,0,0,0.0,1.0,1
+zstd,nick magerko,MovingAvg,23,0,0,0.0,1.0,1
+zstd,nick magerko,BetaRep,23,0,0,0.0,0.2308,18
+zstd,nick magerko,Proposed,23,0,0,0.0,0.7692,13
+zstd,carl woffenden,M34,47,0,0,0.0,1.0,1
+zstd,carl woffenden,MovingAvg,47,0,0,0.0,1.0,1
+zstd,carl woffenden,BetaRep,47,0,0,0.0,0.4595,21
+zstd,carl woffenden,Proposed,47,0,0,0.0,0.1351,17
+zstd,bimbashrestha,M34,13,0,0,0.0,1.0,1
+zstd,bimbashrestha,MovingAvg,13,0,0,0.0,1.0,1
+zstd,bimbashrestha,BetaRep,13,0,0,0.0,0.0,
+zstd,bimbashrestha,Proposed,13,0,0,0.0,0.0,
+zstd,bimba shrestha,M34,192,0,0,0.0,1.0,1
+zstd,bimba shrestha,MovingAvg,192,0,0,0.0,0.8901,1
+zstd,bimba shrestha,BetaRep,192,0,0,0.0,0.533,29
+zstd,bimba shrestha,Proposed,192,0,0,0.0,0.6868,18
+zstd,sen huang,M34,109,0,0,0.0,1.0,1
+zstd,sen huang,MovingAvg,109,0,0,0.0,1.0,1
+zstd,sen huang,BetaRep,109,0,0,0.0,0.3636,73
+zstd,sen huang,Proposed,109,0,0,0.0,0.3939,49
+zstd,ahmed abdellah,M34,17,0,0,0.0,1.0,1
+zstd,ahmed abdellah,MovingAvg,17,0,0,0.0,1.0,1
+zstd,ahmed abdellah,BetaRep,17,0,0,0.0,0.0,
+zstd,ahmed abdellah,Proposed,17,0,0,0.0,0.0,
+zstd,shashank tavildar,M34,11,0,0,0.0,1.0,1
+zstd,shashank tavildar,MovingAvg,11,0,0,0.0,1.0,1
+zstd,shashank tavildar,BetaRep,11,0,0,0.0,1.0,8
+zstd,shashank tavildar,Proposed,11,0,0,0.0,0.0,
+zstd,senhuang42,M34,310,0,0,0.0,0.9967,1
+zstd,senhuang42,MovingAvg,310,0,0,0.0,0.9667,1
+zstd,senhuang42,BetaRep,310,0,0,0.0,0.37,13
+zstd,senhuang42,Proposed,310,0,0,0.0,0.84,13
+zstd,sen,M34,20,0,0,0.0,1.0,1
+zstd,sen,MovingAvg,20,0,0,0.0,1.0,1
+zstd,sen,BetaRep,20,0,0,0.0,1.0,8
+zstd,sen,Proposed,20,0,0,0.0,0.8,12
+zstd,trianglespct,M34,11,0,0,0.0,1.0,1
+zstd,trianglespct,MovingAvg,11,0,0,0.0,1.0,1
+zstd,trianglespct,BetaRep,11,0,0,0.0,1.0,8
+zstd,trianglespct,Proposed,11,0,0,0.0,0.0,
+zstd,danila kutenin,M34,10,0,0,0.0,0.0,1
+zstd,danila kutenin,MovingAvg,10,0,0,0.0,0.0,1
+zstd,danila kutenin,BetaRep,10,0,0,0.0,0.0,
+zstd,danila kutenin,Proposed,10,0,0,0.0,0.0,
+zstd,binhdvo,M34,12,0,0,0.0,1.0,1
+zstd,binhdvo,MovingAvg,12,0,0,0.0,1.0,1
+zstd,binhdvo,BetaRep,12,0,0,0.0,1.0,8
+zstd,binhdvo,Proposed,12,0,0,0.0,0.0,
+zstd,eli schwartz,M34,26,0,0,0.0,1.0,5
+zstd,eli schwartz,MovingAvg,26,0,0,0.0,0.0,
+zstd,eli schwartz,BetaRep,26,0,0,0.0,0.0,
+zstd,eli schwartz,Proposed,26,1,0,0.0625,0.0,
+zstd,yonatan komornik,M34,29,0,0,0.0,1.0,2
+zstd,yonatan komornik,MovingAvg,29,0,0,0.0,1.0,3
+zstd,yonatan komornik,BetaRep,29,0,0,0.0,0.4737,20
+zstd,yonatan komornik,Proposed,29,0,0,0.0,0.3158,20
+zstd,elliot gorokhovsky,M34,84,0,0,0.0,1.0,1
+zstd,elliot gorokhovsky,MovingAvg,84,0,0,0.0,0.9189,1
+zstd,elliot gorokhovsky,BetaRep,84,0,0,0.0,0.473,40
+zstd,elliot gorokhovsky,Proposed,84,0,0,0.0,0.4595,14
+zstd,danielle rozenblit,M34,65,0,0,0.0,1.0,3
+zstd,danielle rozenblit,MovingAvg,65,0,0,0.0,0.7091,22
+zstd,danielle rozenblit,BetaRep,65,0,0,0.0,0.2,46
+zstd,danielle rozenblit,Proposed,65,0,0,0.0,0.3091,31
+zstd,dependabot[bot],M34,101,0,0,0.0,1.0,1
+zstd,dependabot[bot],MovingAvg,101,0,0,0.0,1.0,1
+zstd,dependabot[bot],BetaRep,101,0,0,0.0,1.0,8
+zstd,dependabot[bot],Proposed,101,0,0,0.0,0.9011,12
+zstd,elasota,M34,11,0,0,0.0,1.0,1
+zstd,elasota,MovingAvg,11,0,0,0.0,1.0,1
+zstd,elasota,BetaRep,11,0,0,0.0,0.0,
+zstd,elasota,Proposed,11,0,0,0.0,0.0,
+zstd,victor zhang,M34,23,0,0,0.0,1.0,3
+zstd,victor zhang,MovingAvg,23,0,0,0.0,0.3846,12
+zstd,victor zhang,BetaRep,23,0,0,0.0,0.0,
+zstd,victor zhang,Proposed,23,0,0,0.0,0.0,
+zstd,pavel p,M34,16,0,0,0.0,1.0,1
+zstd,pavel p,MovingAvg,16,0,0,0.0,1.0,1
+zstd,pavel p,BetaRep,16,0,0,0.0,0.0,
+zstd,pavel p,Proposed,16,0,0,0.0,0.0,
+zstd,arpad panyik,M34,11,0,0,0.0,1.0,1
+zstd,arpad panyik,MovingAvg,11,0,0,0.0,1.0,1
+zstd,arpad panyik,BetaRep,11,0,0,0.0,0.0,
+zstd,arpad panyik,Proposed,11,0,0,0.0,0.0,
+curl,daniel stenberg,M34,20748,0,0,0.0,1.0,8
+curl,daniel stenberg,MovingAvg,20748,0,0,0.0,0.7335,23
+curl,daniel stenberg,BetaRep,20748,0,0,0.0,0.4226,525
+curl,daniel stenberg,Proposed,20748,0,0,0.0,0.5935,518
+curl,sterling hughes,M34,39,0,0,0.0,1.0,1
+curl,sterling hughes,MovingAvg,39,0,0,0.0,0.8966,1
+curl,sterling hughes,BetaRep,39,0,0,0.0,0.0,
+curl,sterling hughes,Proposed,39,0,0,0.0,0.0,
+curl,sm,M34,10,0,0,0.0,0.0,1
+curl,sm,MovingAvg,10,0,0,0.0,0.0,1
+curl,sm,BetaRep,10,0,0,0.0,0.0,
+curl,sm,Proposed,10,0,0,0.0,0.0,
+curl,gunter knauf,M34,411,0,0,0.0,1.0,1
+curl,gunter knauf,MovingAvg,411,0,0,0.0,0.7681,1
+curl,gunter knauf,BetaRep,411,0,0,0.0,0.0474,52
+curl,gunter knauf,Proposed,411,0,0,0.0,0.2618,20
+curl,gisle vanem,M34,498,0,0,0.0,1.0,1
+curl,gisle vanem,MovingAvg,498,0,0,0.0,0.9385,1
+curl,gisle vanem,BetaRep,498,0,0,0.0,0.1578,421
+curl,gisle vanem,Proposed,498,0,0,0.0,0.1496,47
+curl,dan fandrich,M34,1468,0,0,0.0,1.0,1
+curl,dan fandrich,MovingAvg,1468,0,0,0.0,0.8107,1
+curl,dan fandrich,BetaRep,1468,0,0,0.0,0.5096,151
+curl,dan fandrich,Proposed,1468,0,0,0.0,0.5638,40
+curl,marty kuhrt,M34,26,0,0,0.0,1.0,1
+curl,marty kuhrt,MovingAvg,26,0,0,0.0,1.0,1
+curl,marty kuhrt,BetaRep,26,0,0,0.0,0.0,
+curl,marty kuhrt,Proposed,26,0,0,0.0,0.0,
+curl,dominick meglio,M34,18,0,0,0.0,1.0,2
+curl,dominick meglio,MovingAvg,18,0,0,0.0,0.0,
+curl,dominick meglio,BetaRep,18,0,0,0.0,0.0,
+curl,dominick meglio,Proposed,18,0,0,0.0,0.0,
+curl,yang tse,M34,2586,0,0,0.0,1.0,1
+curl,yang tse,MovingAvg,2586,0,0,0.0,0.5342,1
+curl,yang tse,BetaRep,2586,0,0,0.0,0.2469,116
+curl,yang tse,Proposed,2586,0,0,0.0,0.4076,95
+curl,linus nielsen feltzing,M34,14,0,0,0.0,1.0,1
+curl,linus nielsen feltzing,MovingAvg,14,0,0,0.0,0.0,1
+curl,linus nielsen feltzing,BetaRep,14,0,0,0.0,0.0,
+curl,linus nielsen feltzing,Proposed,14,0,0,0.0,0.0,
+curl,james housley,M34,31,0,0,0.0,1.0,1
+curl,james housley,MovingAvg,31,0,0,0.0,1.0,1
+curl,james housley,BetaRep,31,0,0,0.0,0.0,
+curl,james housley,Proposed,31,0,0,0.0,0.2857,21
+curl,patrick monnerat,M34,358,0,0,0.0,1.0,1
+curl,patrick monnerat,MovingAvg,358,0,0,0.0,0.9397,1
+curl,patrick monnerat,BetaRep,358,0,0,0.0,0.6178,141
+curl,patrick monnerat,Proposed,358,0,0,0.0,0.454,101
+curl,steinar h. gunderson,M34,29,0,0,0.0,1.0,1
+curl,steinar h. gunderson,MovingAvg,29,0,0,0.0,1.0,1
+curl,steinar h. gunderson,BetaRep,29,0,0,0.0,0.0,
+curl,steinar h. gunderson,Proposed,29,0,0,0.0,0.0,
+curl,michal marek,M34,19,0,0,0.0,1.0,3
+curl,michal marek,MovingAvg,19,0,0,0.0,0.1111,18
+curl,michal marek,BetaRep,19,0,0,0.0,0.0,
+curl,michal marek,Proposed,19,0,0,0.0,0.0,
+curl,benoit neil,M34,22,0,0,0.0,1.0,3
+curl,benoit neil,MovingAvg,22,0,0,0.0,0.0,
+curl,benoit neil,BetaRep,22,0,0,0.0,0.0,
+curl,benoit neil,Proposed,22,0,0,0.0,0.0,
+curl,bill hoffman,M34,14,0,0,0.0,1.0,5
+curl,bill hoffman,MovingAvg,14,0,0,0.0,0.0,
+curl,bill hoffman,BetaRep,14,0,0,0.0,0.0,
+curl,bill hoffman,Proposed,14,0,0,0.0,0.0,
+curl,kamil dudka,M34,255,0,0,0.0,1.0,1
+curl,kamil dudka,MovingAvg,255,0,0,0.0,0.8041,1
+curl,kamil dudka,BetaRep,255,0,0,0.0,0.1429,219
+curl,kamil dudka,Proposed,255,0,0,0.0,0.0653,29
+curl,ben greear,M34,21,0,0,0.0,1.0,1
+curl,ben greear,MovingAvg,21,0,0,0.0,1.0,1
+curl,ben greear,BetaRep,21,0,0,0.0,1.0,8
+curl,ben greear,Proposed,21,0,0,0.0,0.2727,12
+curl,tor arntsen,M34,15,0,0,0.0,1.0,1
+curl,tor arntsen,MovingAvg,15,0,0,0.0,1.0,1
+curl,tor arntsen,BetaRep,15,0,0,0.0,1.0,8
+curl,tor arntsen,Proposed,15,0,0,0.0,0.0,
+curl,guenter knauf,M34,248,0,0,0.0,1.0,1
+curl,guenter knauf,MovingAvg,248,0,0,0.0,0.7521,1
+curl,guenter knauf,BetaRep,248,0,0,0.0,0.0084,176
+curl,guenter knauf,Proposed,248,0,0,0.0,0.105,35
+curl,paul howarth,M34,16,0,0,0.0,1.0,1
+curl,paul howarth,MovingAvg,16,0,0,0.0,1.0,1
+curl,paul howarth,BetaRep,16,0,0,0.0,1.0,8
+curl,paul howarth,Proposed,16,0,0,0.0,0.0,
+curl,howard chu,M34,10,0,0,0.0,0.0,1
+curl,howard chu,MovingAvg,10,0,0,0.0,0.0,1
+curl,howard chu,BetaRep,10,0,0,0.0,0.0,8
+curl,howard chu,Proposed,10,0,0,0.0,0.0,
+curl,julien chaffraix,M34,54,0,0,0.0,1.0,1
+curl,julien chaffraix,MovingAvg,54,0,0,0.0,0.8864,1
+curl,julien chaffraix,BetaRep,54,0,0,0.0,0.5682,8
+curl,julien chaffraix,Proposed,54,0,0,0.0,0.4318,12
+curl,fabian keil,M34,78,0,0,0.0,1.0,1
+curl,fabian keil,MovingAvg,78,0,0,0.0,1.0,1
+curl,fabian keil,BetaRep,78,0,0,0.0,1.0,8
+curl,fabian keil,Proposed,78,0,0,0.0,0.4559,16
+curl,brad hards,M34,11,0,0,0.0,1.0,1
+curl,brad hards,MovingAvg,11,0,0,0.0,1.0,1
+curl,brad hards,BetaRep,11,0,0,0.0,1.0,8
+curl,brad hards,Proposed,11,0,0,0.0,0.0,
+curl,dave reisner,M34,23,0,0,0.0,1.0,1
+curl,dave reisner,MovingAvg,23,0,0,0.0,1.0,1
+curl,dave reisner,BetaRep,23,0,0,0.0,1.0,8
+curl,dave reisner,Proposed,23,0,0,0.0,0.0,
+curl,steve holme,M34,1915,0,0,0.0,1.0,1
+curl,steve holme,MovingAvg,1915,0,0,0.0,0.8451,1
+curl,steve holme,BetaRep,1915,0,0,0.0,0.1858,8
+curl,steve holme,Proposed,1915,0,0,0.0,0.4562,12
+curl,colin hogben,M34,16,0,0,0.0,1.0,1
+curl,colin hogben,MovingAvg,16,0,0,0.0,1.0,1
+curl,colin hogben,BetaRep,16,0,0,0.0,1.0,8
+curl,colin hogben,Proposed,16,0,0,0.0,0.0,
+curl,alessandro ghedini,M34,83,0,0,0.0,1.0,1
+curl,alessandro ghedini,MovingAvg,83,0,0,0.0,1.0,1
+curl,alessandro ghedini,BetaRep,83,0,0,0.0,1.0,8
+curl,alessandro ghedini,Proposed,83,0,0,0.0,0.3836,21
+curl,tatsuhiro tsujikawa,M34,150,0,0,0.0,1.0,1
+curl,tatsuhiro tsujikawa,MovingAvg,150,0,0,0.0,1.0,1
+curl,tatsuhiro tsujikawa,BetaRep,150,0,0,0.0,1.0,8
+curl,tatsuhiro tsujikawa,Proposed,150,0,0,0.0,0.6286,12
+curl,marc hoersken,M34,461,0,0,0.0,1.0,1
+curl,marc hoersken,MovingAvg,461,0,0,0.0,0.9867,1
+curl,marc hoersken,BetaRep,461,0,0,0.0,0.9911,8
+curl,marc hoersken,Proposed,461,0,0,0.0,0.7783,12
+curl,mark salisbury,M34,12,0,0,0.0,1.0,1
+curl,mark salisbury,MovingAvg,12,0,0,0.0,1.0,1
+curl,mark salisbury,BetaRep,12,0,0,0.0,1.0,8
+curl,mark salisbury,Proposed,12,0,0,0.0,0.0,
+curl,nick zitzmann,M34,66,0,0,0.0,1.0,1
+curl,nick zitzmann,MovingAvg,66,0,0,0.0,0.8036,1
+curl,nick zitzmann,BetaRep,66,0,0,0.0,0.4643,8
+curl,nick zitzmann,Proposed,66,0,0,0.0,0.1964,16
+curl,joe mason,M34,15,0,0,0.0,1.0,2
+curl,joe mason,MovingAvg,15,0,0,0.0,1.0,3
+curl,joe mason,BetaRep,15,0,0,0.0,0.6,12
+curl,joe mason,Proposed,15,0,0,0.0,0.6,12
+curl,sergei nikulov,M34,39,0,0,0.0,1.0,1
+curl,sergei nikulov,MovingAvg,39,0,0,0.0,1.0,1
+curl,sergei nikulov,BetaRep,39,0,0,0.0,1.0,8
+curl,sergei nikulov,Proposed,39,0,0,0.0,0.0,
+curl,john e. malmberg,M34,10,0,0,0.0,0.0,1
+curl,john e. malmberg,MovingAvg,10,0,0,0.0,0.0,1
+curl,john e. malmberg,BetaRep,10,0,0,0.0,0.0,8
+curl,john e. malmberg,Proposed,10,0,0,0.0,0.0,
+curl,jiri hruska,M34,58,0,0,0.0,1.0,1
+curl,jiri hruska,MovingAvg,58,0,0,0.0,1.0,1
+curl,jiri hruska,BetaRep,58,0,0,0.0,1.0,8
+curl,jiri hruska,Proposed,58,0,0,0.0,0.9375,12
+curl,kyle l. huff,M34,10,0,0,0.0,0.0,1
+curl,kyle l. huff,MovingAvg,10,0,0,0.0,0.0,1
+curl,kyle l. huff,BetaRep,10,0,0,0.0,0.0,8
+curl,kyle l. huff,Proposed,10,0,0,0.0,0.0,
+curl,gergely nagy,M34,21,0,0,0.0,1.0,1
+curl,gergely nagy,MovingAvg,21,0,0,0.0,1.0,1
+curl,gergely nagy,BetaRep,21,0,0,0.0,1.0,8
+curl,gergely nagy,Proposed,21,0,0,0.0,0.5455,15
+curl,björn stenberg,M34,12,0,0,0.0,1.0,1
+curl,björn stenberg,MovingAvg,12,0,0,0.0,1.0,1
+curl,björn stenberg,BetaRep,12,0,0,0.0,1.0,8
+curl,björn stenberg,Proposed,12,0,0,0.0,0.0,
+curl,michael osipov,M34,23,0,0,0.0,1.0,1
+curl,michael osipov,MovingAvg,23,0,0,0.0,1.0,1
+curl,michael osipov,BetaRep,23,0,0,0.0,1.0,8
+curl,michael osipov,Proposed,23,0,0,0.0,0.0,
+curl,fabian frank,M34,18,0,0,0.0,1.0,1
+curl,fabian frank,MovingAvg,18,0,0,0.0,1.0,1
+curl,fabian frank,BetaRep,18,0,0,0.0,1.0,8
+curl,fabian frank,Proposed,18,0,0,0.0,0.625,12
+curl,marcel raad,M34,407,0,0,0.0,1.0,1
+curl,marcel raad,MovingAvg,407,0,0,0.0,0.9874,1
+curl,marcel raad,BetaRep,407,0,0,0.0,1.0,8
+curl,marcel raad,Proposed,407,0,0,0.0,0.8363,29
+curl,david woodhouse,M34,12,0,0,0.0,1.0,1
+curl,david woodhouse,MovingAvg,12,0,0,0.0,1.0,1
+curl,david woodhouse,BetaRep,12,0,0,0.0,1.0,8
+curl,david woodhouse,Proposed,12,0,0,0.0,0.0,
+curl,jakub zakrzewski,M34,34,0,0,0.0,1.0,1
+curl,jakub zakrzewski,MovingAvg,34,0,0,0.0,1.0,1
+curl,jakub zakrzewski,BetaRep,34,0,0,0.0,1.0,8
+curl,jakub zakrzewski,Proposed,34,0,0,0.0,0.25,12
+curl,bill nagel,M34,16,0,0,0.0,1.0,1
+curl,bill nagel,MovingAvg,16,0,0,0.0,1.0,1
+curl,bill nagel,BetaRep,16,0,0,0.0,1.0,8
+curl,bill nagel,Proposed,16,0,0,0.0,0.6667,12
+curl,peter wu,M34,61,0,0,0.0,1.0,1
+curl,peter wu,MovingAvg,61,0,0,0.0,1.0,1
+curl,peter wu,BetaRep,61,0,0,0.0,0.9804,8
+curl,peter wu,Proposed,61,0,0,0.0,0.6275,12
+curl,jay satiro,M34,791,0,0,0.0,1.0,1
+curl,jay satiro,MovingAvg,791,0,0,0.0,0.9693,1
+curl,jay satiro,BetaRep,791,0,0,0.0,0.904,8
+curl,jay satiro,Proposed,791,0,0,0.0,0.8656,13
+curl,frank gevaerts,M34,24,0,0,0.0,1.0,1
+curl,frank gevaerts,MovingAvg,24,0,0,0.0,1.0,1
+curl,frank gevaerts,BetaRep,24,0,0,0.0,1.0,8
+curl,frank gevaerts,Proposed,24,0,0,0.0,0.0,
+curl,stefan bühler,M34,10,0,0,0.0,0.0,1
+curl,stefan bühler,MovingAvg,10,0,0,0.0,0.0,1
+curl,stefan bühler,BetaRep,10,0,0,0.0,0.0,
+curl,stefan bühler,Proposed,10,0,0,0.0,0.0,
+curl,viktor szakats,M34,3568,0,0,0.0,1.0,1
+curl,viktor szakats,MovingAvg,3568,0,0,0.0,1.0,1
+curl,viktor szakats,BetaRep,3568,0,0,0.0,1.0,10
+curl,viktor szakats,Proposed,3568,0,0,0.0,0.9862,12
+curl,michael kaufmann,M34,85,0,0,0.0,1.0,1
+curl,michael kaufmann,MovingAvg,85,0,0,0.0,1.0,1
+curl,michael kaufmann,BetaRep,85,0,0,0.0,1.0,8
+curl,michael kaufmann,Proposed,85,0,0,0.0,0.4267,12
+curl,anders bakken,M34,16,0,0,0.0,1.0,1
+curl,anders bakken,MovingAvg,16,0,0,0.0,1.0,1
+curl,anders bakken,BetaRep,16,0,0,0.0,1.0,8
+curl,anders bakken,Proposed,16,0,0,0.0,0.0,
+curl,orgad shaneh,M34,23,0,0,0.0,1.0,1
+curl,orgad shaneh,MovingAvg,23,0,0,0.0,1.0,1
+curl,orgad shaneh,BetaRep,23,0,0,0.0,1.0,8
+curl,orgad shaneh,Proposed,23,0,0,0.0,0.4615,16
+curl,isaac boukris,M34,20,0,0,0.0,1.0,1
+curl,isaac boukris,MovingAvg,20,0,0,0.0,1.0,1
+curl,isaac boukris,BetaRep,20,0,0,0.0,1.0,8
+curl,isaac boukris,Proposed,20,0,0,0.0,0.2,15
+curl,joel depooter,M34,16,0,0,0.0,1.0,1
+curl,joel depooter,MovingAvg,16,0,0,0.0,1.0,1
+curl,joel depooter,BetaRep,16,0,0,0.0,1.0,8
+curl,joel depooter,Proposed,16,0,0,0.0,0.0,
+curl,svyatoslav mishyn,M34,19,0,0,0.0,1.0,1
+curl,svyatoslav mishyn,MovingAvg,19,0,0,0.0,1.0,1
+curl,svyatoslav mishyn,BetaRep,19,0,0,0.0,1.0,8
+curl,svyatoslav mishyn,Proposed,19,0,0,0.0,0.7778,12
+curl,johannes schindelin,M34,51,0,0,0.0,1.0,1
+curl,johannes schindelin,MovingAvg,51,0,0,0.0,1.0,1
+curl,johannes schindelin,BetaRep,51,0,0,0.0,1.0,8
+curl,johannes schindelin,Proposed,51,0,0,0.0,0.7317,12
+curl,david benjamin,M34,12,0,0,0.0,1.0,1
+curl,david benjamin,MovingAvg,12,0,0,0.0,1.0,1
+curl,david benjamin,BetaRep,12,0,0,0.0,1.0,8
+curl,david benjamin,Proposed,12,0,0,0.0,0.0,
+curl,karlson2k,M34,10,0,0,0.0,0.0,1
+curl,karlson2k,MovingAvg,10,0,0,0.0,0.0,1
+curl,karlson2k,BetaRep,10,0,0,0.0,0.0,8
+curl,karlson2k,Proposed,10,0,0,0.0,0.0,
+curl,simon warta,M34,17,0,0,0.0,1.0,1
+curl,simon warta,MovingAvg,17,0,0,0.0,1.0,1
+curl,simon warta,BetaRep,17,0,0,0.0,1.0,8
+curl,simon warta,Proposed,17,0,0,0.0,0.1429,13
+curl,daniel gustafsson,M34,217,0,0,0.0,1.0,1
+curl,daniel gustafsson,MovingAvg,217,0,0,0.0,1.0,1
+curl,daniel gustafsson,BetaRep,217,0,0,0.0,1.0,8
+curl,daniel gustafsson,Proposed,217,0,0,0.0,0.7923,15
+curl,max dymond,M34,69,0,0,0.0,1.0,1
+curl,max dymond,MovingAvg,69,0,0,0.0,0.7797,1
+curl,max dymond,BetaRep,69,0,0,0.0,0.8136,8
+curl,max dymond,Proposed,69,1,0,0.0169,0.339,17
+curl,nikos mavrogiannopoulos,M34,10,0,0,0.0,0.0,1
+curl,nikos mavrogiannopoulos,MovingAvg,10,0,0,0.0,0.0,1
+curl,nikos mavrogiannopoulos,BetaRep,10,0,0,0.0,0.0,8
+curl,nikos mavrogiannopoulos,Proposed,10,0,0,0.0,0.0,
+curl,christian schmitz,M34,18,0,0,0.0,1.0,1
+curl,christian schmitz,MovingAvg,18,0,0,0.0,1.0,1
+curl,christian schmitz,BetaRep,18,0,0,0.0,1.0,10
+curl,christian schmitz,Proposed,18,0,0,0.0,0.0,
+curl,rikard falkeborn,M34,29,0,0,0.0,1.0,1
+curl,rikard falkeborn,MovingAvg,29,0,0,0.0,1.0,1
+curl,rikard falkeborn,BetaRep,29,0,0,0.0,1.0,8
+curl,rikard falkeborn,Proposed,29,0,0,0.0,0.4211,12
+curl,ruslan baratov,M34,10,0,0,0.0,0.0,1
+curl,ruslan baratov,MovingAvg,10,0,0,0.0,0.0,1
+curl,ruslan baratov,BetaRep,10,0,0,0.0,0.0,8
+curl,ruslan baratov,Proposed,10,0,0,0.0,0.0,
+curl,harry sintonen,M34,37,0,0,0.0,1.0,1
+curl,harry sintonen,MovingAvg,37,0,0,0.0,1.0,1
+curl,harry sintonen,BetaRep,37,0,0,0.0,1.0,8
+curl,harry sintonen,Proposed,37,0,0,0.0,0.2593,14
+curl,zenju,M34,10,0,0,0.0,0.0,1
+curl,zenju,MovingAvg,10,0,0,0.0,0.0,1
+curl,zenju,BetaRep,10,0,0,0.0,0.0,8
+curl,zenju,Proposed,10,0,0,0.0,0.0,
+curl,emil engler,M34,45,0,0,0.0,1.0,1
+curl,emil engler,MovingAvg,45,0,0,0.0,1.0,1
+curl,emil engler,BetaRep,45,0,0,0.0,1.0,8
+curl,emil engler,Proposed,45,0,0,0.0,0.6,15
+curl,jacob hoffman-andrews,M34,27,0,0,0.0,1.0,1
+curl,jacob hoffman-andrews,MovingAvg,27,0,0,0.0,1.0,1
+curl,jacob hoffman-andrews,BetaRep,27,0,0,0.0,1.0,8
+curl,jacob hoffman-andrews,Proposed,27,0,0,0.0,0.2941,12
+curl,mantoniak,M34,29,0,0,0.0,1.0,1
+curl,mantoniak,MovingAvg,29,0,0,0.0,1.0,1
+curl,mantoniak,BetaRep,29,0,0,0.0,1.0,8
+curl,mantoniak,Proposed,29,0,0,0.0,0.5263,12
+curl,josh soref,M34,16,0,0,0.0,1.0,1
+curl,josh soref,MovingAvg,16,0,0,0.0,1.0,1
+curl,josh soref,BetaRep,16,0,0,0.0,1.0,8
+curl,josh soref,Proposed,16,0,0,0.0,0.6667,12
+curl,samuel henrique,M34,25,0,0,0.0,1.0,1
+curl,samuel henrique,MovingAvg,25,0,0,0.0,1.0,1
+curl,samuel henrique,BetaRep,25,0,0,0.0,1.0,8
+curl,samuel henrique,Proposed,25,0,0,0.0,0.0,
+curl,x2018,M34,41,0,0,0.0,1.0,1
+curl,x2018,MovingAvg,41,0,0,0.0,1.0,1
+curl,x2018,BetaRep,41,0,0,0.0,1.0,8
+curl,x2018,Proposed,41,0,0,0.0,0.9355,12
+curl,stefan eissing,M34,1279,0,0,0.0,1.0,1
+curl,stefan eissing,MovingAvg,1279,0,0,0.0,1.0,1
+curl,stefan eissing,BetaRep,1279,0,0,0.0,1.0,8
+curl,stefan eissing,Proposed,1279,0,0,0.0,0.9984,12
+curl,jan venekamp,M34,40,0,0,0.0,1.0,1
+curl,jan venekamp,MovingAvg,40,0,0,0.0,1.0,1
+curl,jan venekamp,BetaRep,40,0,0,0.0,1.0,8
+curl,jan venekamp,Proposed,40,0,0,0.0,0.8,14
+curl,philip h,M34,39,0,0,0.0,1.0,1
+curl,philip h,MovingAvg,39,0,0,0.0,1.0,1
+curl,philip h,BetaRep,39,0,0,0.0,1.0,8
+curl,philip h,Proposed,39,0,0,0.0,0.6897,18
+curl,monkeybreadsoftware,M34,10,0,0,0.0,0.0,1
+curl,monkeybreadsoftware,MovingAvg,10,0,0,0.0,0.0,1
+curl,monkeybreadsoftware,BetaRep,10,0,0,0.0,0.0,8
+curl,monkeybreadsoftware,Proposed,10,0,0,0.0,0.0,
+curl,emanuele torre,M34,18,0,0,0.0,1.0,1
+curl,emanuele torre,MovingAvg,18,0,0,0.0,1.0,1
+curl,emanuele torre,BetaRep,18,0,0,0.0,1.0,8
+curl,emanuele torre,Proposed,18,0,0,0.0,0.25,15
+curl,ryan schmidt,M34,14,0,0,0.0,1.0,1
+curl,ryan schmidt,MovingAvg,14,0,0,0.0,1.0,1
+curl,ryan schmidt,BetaRep,14,0,0,0.0,1.0,8
+curl,ryan schmidt,Proposed,14,0,0,0.0,0.0,
+curl,evgeny grin,M34,13,0,0,0.0,1.0,1
+curl,evgeny grin,MovingAvg,13,0,0,0.0,1.0,1
+curl,evgeny grin,BetaRep,13,0,0,0.0,1.0,8
+curl,evgeny grin,Proposed,13,0,0,0.0,0.3333,12
+curl,futaura,M34,11,0,0,0.0,1.0,1
+curl,futaura,MovingAvg,11,0,0,0.0,1.0,1
+curl,futaura,BetaRep,11,0,0,0.0,1.0,8
+curl,futaura,Proposed,11,0,0,0.0,0.0,
+curl,john bampton,M34,11,0,0,0.0,1.0,1
+curl,john bampton,MovingAvg,11,0,0,0.0,1.0,1
+curl,john bampton,BetaRep,11,0,0,0.0,1.0,8
+curl,john bampton,Proposed,11,0,0,0.0,0.0,
+curl,andy5995,M34,15,0,0,0.0,1.0,1
+curl,andy5995,MovingAvg,15,0,0,0.0,1.0,1
+curl,andy5995,BetaRep,15,0,0,0.0,1.0,8
+curl,andy5995,Proposed,15,0,0,0.0,0.6,12
+curl,graham campbell,M34,16,0,0,0.0,1.0,1
+curl,graham campbell,MovingAvg,16,0,0,0.0,1.0,1
+curl,graham campbell,BetaRep,16,0,0,0.0,1.0,8
+curl,graham campbell,Proposed,16,0,0,0.0,0.6667,12
+curl,nicholas nethercote,M34,11,0,0,0.0,1.0,1
+curl,nicholas nethercote,MovingAvg,11,0,0,0.0,1.0,1
+curl,nicholas nethercote,BetaRep,11,0,0,0.0,1.0,8
+curl,nicholas nethercote,Proposed,11,0,0,0.0,0.0,
+curl,yedaya katsman,M34,41,0,0,0.0,1.0,1
+curl,yedaya katsman,MovingAvg,41,0,0,0.0,1.0,1
+curl,yedaya katsman,BetaRep,41,0,0,0.0,1.0,8
+curl,yedaya katsman,Proposed,41,0,0,0.0,0.6452,17
+curl,dependabot[bot],M34,46,0,0,0.0,1.0,1
+curl,dependabot[bot],MovingAvg,46,0,0,0.0,1.0,1
+curl,dependabot[bot],BetaRep,46,0,0,0.0,1.0,8
+curl,dependabot[bot],Proposed,46,0,0,0.0,0.6667,13
+curl,tal regev,M34,27,0,0,0.0,1.0,1
+curl,tal regev,MovingAvg,27,0,0,0.0,1.0,1
+curl,tal regev,BetaRep,27,0,0,0.0,1.0,8
+curl,tal regev,Proposed,27,0,0,0.0,0.8824,12
+curl,daniel mccarney,M34,34,0,0,0.0,1.0,1
+curl,daniel mccarney,MovingAvg,34,0,0,0.0,1.0,1
+curl,daniel mccarney,BetaRep,34,0,0,0.0,1.0,8
+curl,daniel mccarney,Proposed,34,0,0,0.0,0.625,13
+curl,renovate[bot],M34,268,0,0,0.0,1.0,1
+curl,renovate[bot],MovingAvg,268,0,0,0.0,1.0,1
+curl,renovate[bot],BetaRep,268,0,0,0.0,0.9961,8
+curl,renovate[bot],Proposed,268,0,0,0.0,0.9884,13
+curl,andy pan,M34,11,0,0,0.0,1.0,1
+curl,andy pan,MovingAvg,11,0,0,0.0,1.0,1
+curl,andy pan,BetaRep,11,0,0,0.0,1.0,8
+curl,andy pan,Proposed,11,0,0,0.0,0.0,
+curl,gabriel marin,M34,11,0,0,0.0,1.0,1
+curl,gabriel marin,MovingAvg,11,0,0,0.0,1.0,1
+curl,gabriel marin,BetaRep,11,0,0,0.0,1.0,8
+curl,gabriel marin,Proposed,11,0,0,0.0,0.0,
+curl,joshua rogers,M34,61,0,0,0.0,1.0,1
+curl,joshua rogers,MovingAvg,61,0,0,0.0,1.0,1
+curl,joshua rogers,BetaRep,61,0,0,0.0,1.0,8
+curl,joshua rogers,Proposed,61,0,0,0.0,0.8824,12

@@ -1,0 +1,28 @@
+{
+  "xz": {
+    "attacker": ["jia tan"],
+    "related_accounts": ["hans jansen"],
+    "discovery_date": "2024-03-29",
+    "malicious_commits": {
+      "cf44e4b7f5dfdbf8c78aef377c10f71e274f63c0": "Tests: Add a few test files (backdoor payload as binary test files); reverted in e93e13c8",
+      "6e636819e8f070330d835fce46289a3ff72a7b89": "Tests: Update two test files (updated payload); reverted in e93e13c8",
+      "328c52da8a2bbb81307644efdb58db2c422d9ba7": "Build: Fix Linux Landlock feature test (stray '.' disables Landlock in CMake); fixed in f9cf4c05 'Fix sabotaged Landlock sandbox check'"
+    },
+    "backdoor_related_commits": ["a3a29bbd", "0b4ccc91", "8c9b8b20", "82ecc538", "3060e107", "e2870db5"],
+    "release_commits_with_tampered_tarball": {
+      "2d7d862e": "v5.6.0 (2024-02-24): release tarball contained a modified build-to-host.m4 that is not in git",
+      "fd1b975b": "v5.6.1 (2024-03-09): same"
+    },
+    "source": "Repository history: commit e93e13c8 'Remove the backdoor found in 5.6.0 and 5.6.1 (CVE-2024-3094)' lists the reverted commits; commit f9cf4c05 'CMake: Fix sabotaged Landlock sandbox check'. Tarball facts: CVE-2024-3094 public analyses."
+  },
+  "event-stream": {
+    "attacker": ["北川"],
+    "attacker_handle": "right9ctrl",
+    "discovery_date": "2018-11-20",
+    "malicious_commits": {
+      "e316336": "add flat map: adds dependency flatmap-stream ^0.1.0 (published as event-stream 3.3.6, 2018-09-09); malicious flatmap-stream 0.1.1 published 2018-10-05 was then pulled in transitively"
+    },
+    "release_commits": {"5999958": "3.3.6"},
+    "source": "Repository history (package.json diff of e316336) and public post-mortems of the event-stream incident."
+  }
+}

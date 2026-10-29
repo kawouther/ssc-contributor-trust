@@ -1,0 +1,234 @@
+author,date,sha,kind,subject,S,risk,M34,MovingAvg,BetaRep,Proposed
+北川,2018-09-04,a74c9b2a,commit,upgrade dependencies,-0.25,7,-0.25,-0.25,-0.051,-0.1
+北川,2018-09-04,0cc6c7f6,commit,add map and split examples,0.5,0,0.3,0.125,0.0456,-0.01
+北川,2018-09-04,ee8f8e4e,commit,remove trailing in split example,0.5,0,0.74,0.25,0.1141,0.0665
+北川,2018-09-05,c08d14b7,commit,better pretty.js example,0.5,0,1.0,0.3125,0.1651,0.1314
+北川,2018-09-05,05b0224c,commit,update readme,0.5,0,1.0,0.35,0.2046,0.1866
+北川,2018-09-05,918d4a33,commit,3.3.5,0.25,4,1.0,0.3333,0.2074,0.1961
+北川,2018-09-06,50c0edb8,commit,add note for gulp 4 in readme,0.5,0,1.0,0.3571,0.2362,0.241
+北川,2018-09-09,0f3738c9,commit,add collect alias for write array,0.5,0,1.0,0.375,0.2601,0.2775
+北川,2018-09-09,e3163361,commit,add flat map,-0.25,7,0.55,0.3056,0.2098,0.0665
+北川,2018-09-09,5999958d,commit,3.3.6,0.25,4,0.69,0.3,0.2115,0.094
+北川,2018-09-16,908fee5c,commit,add filter and rewrite flatmap,0.75,0,1.0,0.4,0.2555,0.1903
+北川,2018-09-16,2bd63d58,commit,update package.json,0.25,4,1.0,0.375,0.253,0.1992
+北川,2018-09-16,8bc742ba,commit,update readme,0.5,0,1.0,0.375,0.2704,0.2443
+北川,2018-09-20,60d0aa3d,commit,add keywords,0.25,4,1.0,0.35,0.2668,0.2419
+北川,2018-09-20,28e14727,commit,add example for flatmap and filter,0.5,0,1.0,0.35,0.2819,0.2807
+北川,2018-09-20,9a5c52a7,commit,remove testling from package.json,0.25,4,1.0,0.35,0.2776,0.2761
+dominic tarr,2011-08-20,970993cc,commit,inital. first implementation of a map function (takes async callback f,0.25,4,0.25,0.25,0.051,0.0375
+dominic tarr,2011-08-21,c8f0d36e,commit,initial,0.25,4,0.45,0.25,0.0847,0.0692
+dominic tarr,2011-08-21,14bd77e4,commit,fix,0.25,4,0.61,0.25,0.1086,0.0964
+dominic tarr,2011-08-21,5774e316,commit,add to readme,0.5,0,0.988,0.3125,0.1604,0.1568
+dominic tarr,2011-08-22,2545deae,commit,"implement reader, and fix bug with .end()",0.5,0,1.0,0.35,0.2005,0.2079
+dominic tarr,2011-08-22,49fe69a1,commit,bump version 0.1,0.25,4,1.0,0.3333,0.2039,0.2142
+dominic tarr,2011-08-24,2b80fb60,commit,fix `code quotes`,0.5,0,1.0,0.3571,0.2331,0.2556
+dominic tarr,2011-09-09,9b9e2aaa,commit,pipe,0.5,0,1.0,0.375,0.2573,0.2793
+dominic tarr,2011-09-16,42b5c5c4,commit,"changed read to readArray, add writeArray, and split",0.5,0,1.0,0.3889,0.2777,0.306
+dominic tarr,2011-09-17,b0333ed8,commit,"add pipable, and improve readme",0.5,0,1.0,0.4,0.295,0.3343
+dominic tarr,2011-09-18,ded52970,commit,"add duplex, and child",0.25,4,1.0,0.4,0.2887,0.3206
+dominic tarr,2011-09-18,7fd02124,commit,add to readme,0.5,0,1.0,0.425,0.3036,0.3474
+dominic tarr,2011-09-18,f7521fa8,commit,edit readme,0.5,0,1.0,0.45,0.3166,0.3703
+dominic tarr,2011-09-18,03ccd797,commit,added tests as submodule,0.75,0,1.0,0.475,0.347,0.4272
+dominic tarr,2011-09-18,8b25bb35,commit,added pipeable to readme,-0.25,7,0.55,0.4,0.3007,0.1563
+dominic tarr,2011-09-19,4a449f0e,commit,compatible libraries,0.5,0,0.94,0.425,0.3127,0.2075
+dominic tarr,2011-09-19,9a095ca3,commit,add more compatible modules,0.5,0,1.0,0.425,0.3235,0.2513
+dominic tarr,2011-09-19,6d7a78f1,commit,updated readme,0.5,0,1.0,0.425,0.3332,0.2886
+dominic tarr,2011-09-19,d8e06ad3,commit,add more compatible modules,0.5,0,1.0,0.425,0.342,0.3202
+dominic tarr,2011-09-19,ed163756,commit,"bump version, oops, forgot to mention fixed map error bug in last comm",0.25,4,1.0,0.4,0.3339,0.3096
+dominic tarr,2011-09-19,93c460b3,commit,"add gate (buffer if shut, stream if open)",0.5,0,1.0,0.425,0.3422,0.3379
+dominic tarr,2011-09-19,c552db13,commit,add some docs for gate,0.5,0,1.0,0.425,0.3499,0.3622
+dominic tarr,2011-09-19,b4723d15,commit,bump version 0.3,0.25,4,1.0,0.4,0.3417,0.3454
+dominic tarr,2011-09-20,20a77601,commit,"add mapSync, bump version 0.4",0.25,4,1.0,0.35,0.3342,0.3305
+dominic tarr,2011-09-20,e4b834e5,commit,add `readable`: helper to make readable stream,0.5,0,1.0,0.425,0.342,0.3555
+dominic tarr,2011-09-20,2a7c720b,commit,bump version 0.4,0.25,4,1.0,0.4,0.3346,0.3396
+dominic tarr,2011-09-21,791c72ad,commit,add readable to readme,0.5,0,1.0,0.4,0.3422,0.363
+dominic tarr,2011-09-21,64468f22,commit,"fix deps, bump versios 0.5.1",-0.25,7,0.55,0.325,0.3068,0.1178
+dominic tarr,2011-11-01,e860a59c,commit,fix issue one: readable(func) : func being called concurrently,0.5,0,0.94,0.325,0.3159,0.1606
+dominic tarr,2011-11-01,33777812,commit,bump version 0.5.2,0.25,4,1.0,0.325,0.3105,0.174
+dominic tarr,2011-11-01,3fe65e20,commit,map should not emit drain unless the stream is paused,0.5,0,1.0,0.325,0.3192,0.2229
+dominic tarr,2011-11-01,f2b14160,commit,bump version 0.5.3,0.25,4,1.0,0.3,0.3137,0.2269
+dominic tarr,2011-11-07,b5cfae7b,commit,"added .join and .replace, and bumped version 0.6.0",0.25,4,1.0,0.3,0.3086,0.2258
+dominic tarr,2012-03-25,29eebf18,commit,add through,0.5,0,1.0,0.325,0.3171,0.1871
+dominic tarr,2012-03-25,06ed2134,commit,0.7.0,0.25,4,1.0,0.3,0.3119,0.1965
+dominic tarr,2012-03-25,ec831f01,commit,0.8.0,0.25,4,1.0,0.3,0.3071,0.2046
+dominic tarr,2012-04-07,5bd67ee1,commit,"sorry everyone, fucked up a 3-way-merge. fixed.",0.5,0,1.0,0.3,0.3155,0.241
+dominic tarr,2012-04-07,67d2b34a,commit,0.8.1,0.25,4,1.0,0.35,0.3105,0.2423
+dominic tarr,2012-04-07,db67da16,commit,moved tests into this repo,0.75,0,1.0,0.375,0.3314,0.3184
+dominic tarr,2012-04-07,bce55e1f,commit,updated devDeps and test script,0.25,4,1.0,0.375,0.3255,0.3082
+dominic tarr,2012-04-07,9edde1fd,commit,travis.ci integration,0.25,4,1.0,0.35,0.3201,0.2994
+dominic tarr,2012-04-07,b3cdd96a,commit,"oops, mistake c/p into vim",0.25,4,1.0,0.35,0.315,0.292
+dominic tarr,2012-04-07,d27f2245,commit,trying to rework the test,0.75,0,1.0,0.4,0.3351,0.3607
+dominic tarr,2012-04-07,c511eec8,commit,tests into this repo,0.75,0,1.0,0.425,0.3541,0.4191
+dominic tarr,2012-04-07,f0f2e35f,commit,fix package.json,0.25,4,1.0,0.425,0.3472,0.3937
+dominic tarr,2012-04-07,2081e1fd,commit,fixed handling of drain events,0.5,0,1.0,0.45,0.353,0.4096
+dominic tarr,2012-04-07,ebd43c87,commit,"unbroke test, considering making split behave like String.split with r",0.75,0,1.0,0.475,0.3707,0.4607
+dominic tarr,2012-04-07,b7048ed8,commit,git thought this file had changed. commit just to shut it up,0.75,0,1.0,0.525,0.3875,0.5041
+dominic tarr,2012-04-07,6a8a1dec,commit,add travisci sticker,0.5,0,1.0,0.5,0.3911,0.5035
+dominic tarr,2012-04-07,a73d7541,commit,remove unnecessary files liing about,0.5,0,1.0,0.525,0.3944,0.5029
+dominic tarr,2012-04-07,641fb82d,commit,0.8.2,0.25,4,1.0,0.525,0.3855,0.465
+dominic tarr,2012-04-21,7e3279cb,commit,added asyncThrough,0.5,0,1.0,0.55,0.3892,0.4492
+dominic tarr,2012-04-21,31ed3bb0,commit,0.9.0,0.25,4,1.0,0.5,0.3806,0.4193
+dominic tarr,2012-04-21,3f9ee36d,commit,fix asyncThrough,0.5,0,1.0,0.475,0.3845,0.4314
+dominic tarr,2012-04-21,dc86024a,commit,0.9.1,0.25,4,1.0,0.475,0.3763,0.4042
+dominic tarr,2012-04-21,663f8b83,commit,can pass name to es.log(name),0.5,0,1.0,0.475,0.3804,0.4185
+dominic tarr,2012-04-21,294f19f2,commit,0.9.2,0.25,4,1.0,0.425,0.3724,0.3932
+dominic tarr,2012-04-25,53699f94,commit,some small changes to play with browserify more nicely,0.5,0,1.0,0.4,0.3767,0.4042
+dominic tarr,2012-04-25,4655e13f,commit,0.9.3,0.25,4,1.0,0.375,0.3689,0.3811
+dominic tarr,2012-04-25,96b0dc5a,commit,0.9.6,0.25,4,1.0,0.35,0.3615,0.3614
+dominic tarr,2012-04-25,af3a2820,commit,console.error must be called with console as context in browser,0.5,0,1.0,0.375,0.3663,0.3821
+dominic tarr,2012-04-25,1c480e60,commit,0.9.7,0.25,4,1.0,0.35,0.3591,0.3623
+dominic tarr,2012-05-03,44c05744,commit,updated documentation,0.5,0,1.0,0.375,0.3641,0.374
+dominic tarr,2012-05-03,8430309b,commit,0.9.8,0.25,4,1.0,0.35,0.357,0.3554
+dominic tarr,2012-05-17,6a3e3a6f,commit,test for merge function,0.75,0,1.0,0.4,0.3737,0.3981
+dominic tarr,2012-05-17,00d0d285,commit,merge function,0.5,0,1.0,0.4,0.3779,0.4134
+dominic tarr,2012-05-17,3dc6621d,commit,0.10.0,0.25,4,1.0,0.4,0.3702,0.3889
+dominic tarr,2012-05-21,a3f4e66b,commit,"split with regexp, compat with v1 api",0.75,0,1.0,0.425,0.3862,0.4385
+dominic tarr,2012-05-21,3ac501c5,commit,"split with regexp, thanks to @mhart",0.5,0,1.0,0.45,0.3897,0.4477
+dominic tarr,2012-05-21,9981c9f9,commit,1.0.0,0.25,4,1.0,0.45,0.3813,0.4181
+dominic tarr,2012-05-21,5dcb680a,commit,update documentation for split,0.5,0,1.0,0.45,0.3851,0.4304
+dominic tarr,2012-05-21,ae64b0ec,commit,join now matches Array#join and replace is streaming.,0.5,0,1.0,0.475,0.3886,0.4408
+dominic tarr,2012-05-21,901ee597,commit,"update readme on join, replace, wait",0.5,0,1.0,0.475,0.392,0.4497
+dominic tarr,2012-05-21,6a6acb59,commit,1.1.0,0.25,4,1.0,0.475,0.3836,0.4197
+dominic tarr,2012-05-25,961b2433,commit,through now has pause/resume,0.5,0,1.0,0.45,0.3872,0.4256
+dominic tarr,2012-05-25,eaae9582,commit,1.2.0,0.25,4,1.0,0.425,0.3791,0.3993
+dominic tarr,2012-05-26,13f29efb,commit,through may take custom write function,0.5,0,1.0,0.45,0.3829,0.4139
+dominic tarr,2012-05-26,d08019e5,commit,1.3.0,0.25,4,1.0,0.4,0.375,0.3893
+dominic tarr,2012-06-05,1fbd7e2e,commit,through should emit close,0.5,0,1.0,0.4,0.379,0.3932
+dominic tarr,2012-06-05,83c3d678,commit,1.3.1,0.25,4,1.0,0.4,0.3714,0.3717
+dominic tarr,2012-06-05,0fe27c17,commit,start rewriting some sync streams with es.through,0.5,0,1.0,0.4,0.3756,0.3906
+dominic tarr,2012-06-05,26605db1,commit,update documentation. move most useful stuff to the top,0.5,0,1.0,0.4,0.3796,0.407
+dominic tarr,2012-06-05,426f506f,commit,2.0.0,0.25,4,1.0,0.375,0.3719,0.3834
+dominic tarr,2012-06-12,7d4c3ca1,commit,"log, but continue on data that failed to parse",0.5,0,1.0,0.4,0.376,0.3922
+dominic tarr,2012-06-12,cdc855df,commit,2.0.1,0.25,4,1.0,0.375,0.3685,0.3709
+dominic tarr,2012-06-12,6b8df45d,commit,"oops, reference error",0.5,0,1.0,0.4,0.3729,0.3902
+dominic tarr,2012-06-12,ad223b2d,commit,2.0.2,0.25,4,1.0,0.375,0.3655,0.3692
+dominic tarr,2012-06-12,13d420b4,commit,ignore empty lines,0.5,0,1.0,0.4,0.37,0.3888
+dominic tarr,2012-06-12,393408ba,commit,2.0.3,0.25,4,1.0,0.375,0.3628,0.368
+dominic tarr,2012-06-14,ac19e8a2,commit,2.0.4,-0.25,7,0.55,0.325,0.3331,0.1192
+dominic tarr,2012-06-25,bdec4a41,commit,destroy should set writable = readable = false,0.5,0,0.94,0.325,0.3392,0.172
+dominic tarr,2012-06-25,0d6a9f11,commit,2.0.5,0.25,4,1.0,0.3,0.3336,0.1837
+dominic tarr,2012-06-25,9484034c,commit,"destroy when both sides is ended, (if one sided stream, destroy when t",0.5,0,1.0,0.325,0.3396,0.2312
+dominic tarr,2012-06-25,80c497d8,commit,2.0.6,0.25,4,1.0,0.3,0.334,0.234
+dominic tarr,2012-06-25,1877859f,commit,add destroy to duplex,0.5,0,1.0,0.325,0.3401,0.2739
+dominic tarr,2012-06-25,0783f2b8,commit,2.0.7,0.25,4,1.0,0.3,0.3344,0.2703
+dominic tarr,2012-06-25,6db22988,commit,always listen for half duplex close,0.5,0,1.0,0.325,0.3404,0.3047
+dominic tarr,2012-06-25,4968f7c0,commit,"oops, copy paste error",0.5,0,1.0,0.325,0.3462,0.334
+dominic tarr,2012-06-25,deb0c8be,commit,2.0.8,0.25,4,1.0,0.325,0.3402,0.3214
+dominic tarr,2012-06-25,8e64bf35,commit,set props before announcing the state has changed,0.5,0,1.0,0.4,0.3459,0.3482
+dominic tarr,2012-06-25,d9f0fc3c,commit,2.0.9,0.25,4,1.0,0.375,0.34,0.3335
+dominic tarr,2012-06-26,80fe547b,commit,do not emit inside try {..} because a listener may throw,0.5,0,1.0,0.4,0.3457,0.3577
+dominic tarr,2012-06-26,58f84470,commit,2.0.10,0.25,4,1.0,0.375,0.3398,0.3416
+dominic tarr,2012-06-26,c91576cd,commit,"add destroy to all streams, and call it nextTick in through",0.5,0,1.0,0.4,0.3455,0.3653
+dominic tarr,2012-06-26,1a4890d6,commit,simplify test,0.75,0,1.0,0.425,0.3624,0.423
+dominic tarr,2012-06-26,fe35db6c,commit,2.1.0,0.25,4,1.0,0.425,0.3556,0.397
+dominic tarr,2012-06-26,a43cdb19,commit,no longer maintant for 0.4,0.25,4,1.0,0.4,0.3492,0.375
+dominic tarr,2012-06-28,3b9fc1a1,commit,use macgyver,0.25,4,1.0,0.375,0.3431,0.3535
+dominic tarr,2012-06-28,1466487f,commit,experimenting with new test styles,0.75,0,1.0,0.425,0.3601,0.413
+dominic tarr,2012-06-28,2132e752,commit,found some bugs! fixed them,0.5,0,1.0,0.425,0.3648,0.426
+dominic tarr,2012-06-28,8a16cab3,commit,2.1.1,0.25,4,1.0,0.425,0.3579,0.3996
+dominic tarr,2012-06-30,f4abcb39,commit,use macgyver for tests,0.25,4,1.0,0.4,0.3514,0.3749
+dominic tarr,2012-06-30,3f4f5cb5,commit,executable spec as a test,0.75,0,1.0,0.45,0.3679,0.4311
+dominic tarr,2012-06-30,5fb29332,commit,tidy up a little,0.75,0,1.0,0.475,0.3837,0.479
+dominic tarr,2012-06-30,45dd6866,commit,update macgyver,0.25,4,1.0,0.425,0.3758,0.4446
+dominic tarr,2012-06-30,7e72f806,commit,2.1.2,0.25,4,1.0,0.425,0.3684,0.4154
+dominic tarr,2012-07-04,68ebbe48,commit,refactor tests,0.75,0,1.0,0.475,0.3841,0.46
+dominic tarr,2012-07-04,a95a1142,commit,"refactor out through, and from",-0.25,7,0.55,0.425,0.3535,0.176
+dominic tarr,2012-07-04,6dd3a903,commit,the more tests the merrierer,0.75,0,1.0,0.425,0.3699,0.2621
+dominic tarr,2012-07-04,fd1beae3,commit,2.1.3,0.25,4,1.0,0.4,0.3628,0.2603
+dominic tarr,2012-07-04,fc6511b3,commit,update range for stream-spec,0.25,4,1.0,0.4,0.356,0.2587
+dominic tarr,2012-07-04,c7c46ee5,commit,"oops, I mean ~0.1",0.25,4,1.0,0.4,0.3495,0.2574
+dominic tarr,2012-07-04,77505fdd,commit,2.1.4,0.25,4,1.0,0.35,0.3434,0.2563
+dominic tarr,2012-07-11,e74a8931,commit,update stream-spec,0.25,4,1.0,0.3,0.3376,0.2497
+dominic tarr,2012-07-11,b3f8729d,commit,update simple-map to use new spec api,0.75,0,1.0,0.35,0.3548,0.3248
+dominic tarr,2012-07-11,757fd8fc,commit,get the last one,0.75,0,1.0,0.4,0.3712,0.3886
+dominic tarr,2012-07-11,296ced35,commit,tighten implementation to stream-spec,0.5,0,1.0,0.375,0.3754,0.4053
+dominic tarr,2012-07-11,cbb2edee,commit,2.1.5,0.25,4,1.0,0.425,0.368,0.382
+dominic tarr,2012-07-12,4261a59c,commit,precise version for through,-0.25,7,0.55,0.325,0.3382,0.1283
+dominic tarr,2012-07-12,15aa6e7a,commit,2.1.6,0.25,4,0.69,0.325,0.3326,0.1466
+dominic tarr,2012-07-18,3fa5f0cf,commit,document parse and stringify,0.5,0,1.0,0.35,0.3387,0.1966
+dominic tarr,2012-07-19,f0fce8fc,commit,2.1.7,0.25,4,1.0,0.35,0.3331,0.204
+dominic tarr,2012-07-23,f685002c,commit,parse should ignore lines that where only whitespace,0.5,0,1.0,0.375,0.3392,0.246
+dominic tarr,2012-07-23,5c527126,commit,2.1.8,0.25,4,1.0,0.375,0.3336,0.2466
+dominic tarr,2012-07-30,07f6098f,commit,comment about split for parse,0.5,0,1.0,0.35,0.3397,0.279
+dominic tarr,2012-08-04,9d7211c0,commit,test buffers into stringify,0.75,0,1.0,0.35,0.3568,0.345
+dominic tarr,2012-08-04,771d1eb3,commit,handle buffers in stringify,0.5,0,1.0,0.35,0.3617,0.3683
+dominic tarr,2012-08-04,2492efaf,commit,2.1.9,0.25,4,1.0,0.35,0.355,0.3505
+dominic tarr,2012-08-07,bd944da6,commit,"add alias pipeline = connect, and depreciation warning for pipeable",0.5,0,1.0,0.425,0.3599,0.3694
+dominic tarr,2012-08-07,5a7f395e,commit,document pipeline alias for connect,0.5,0,1.0,0.45,0.3647,0.389
+dominic tarr,2012-08-07,0e2ddc0e,commit,2.2.0,0.25,4,1.0,0.425,0.3578,0.3682
+dominic tarr,2012-08-10,acb2f1f6,commit,2.2.1,0.25,4,1.0,0.425,0.3513,0.347
+dominic tarr,2012-08-15,2569f370,commit,"require(""buffer"") so that it works browserify",0.5,0,1.0,0.425,0.3564,0.3643
+dominic tarr,2012-08-15,9bb9c453,commit,2.2.2,0.25,4,1.0,0.425,0.35,0.3472
+dominic tarr,2012-08-18,53c59a38,commit,refactor out map,0.25,4,1.0,0.4,0.3438,0.3292
+dominic tarr,2012-08-18,a8874b32,commit,2.2.3,0.25,4,1.0,0.35,0.338,0.3173
+dominic tarr,2012-08-18,f7766dc5,commit,use pause-stream instead of gate,0.5,0,1.0,0.35,0.3438,0.3447
+dominic tarr,2012-08-18,12cf43da,commit,use pause instead of gate,0.5,0,1.0,0.375,0.3494,0.368
+dominic tarr,2012-08-18,95cdfbc2,commit,depend on pause-stream,0.25,4,1.0,0.35,0.3433,0.3503
+dominic tarr,2012-08-18,fe0d6350,commit,3.0.0,0.25,4,1.0,0.325,0.3375,0.3352
+dominic tarr,2012-08-18,b19d3300,commit,update pause-stream,0.25,4,1.0,0.325,0.3319,0.3224
+dominic tarr,2012-08-18,6c82f494,commit,fix test for pause,0.75,0,1.0,0.375,0.3494,0.3866
+dominic tarr,2012-08-18,25feba33,commit,3.0.1,0.25,4,1.0,0.35,0.3433,0.3661
+dominic tarr,2012-08-19,fbcac060,commit,use updated duplexer,-0.25,7,0.55,0.3,0.3148,0.1186
+dominic tarr,2012-08-19,473d5a3a,commit,3.0.2,0.25,4,0.69,0.3,0.3104,0.1383
+dominic tarr,2012-08-30,090c9578,commit,delete out of date compatibile modules section,0.5,0,1.0,0.325,0.3176,0.1878
+dominic tarr,2012-08-30,4281733b,commit,refactor out split,0.25,4,1.0,0.3,0.3131,0.1971
+dominic tarr,2012-08-30,d4d5f144,commit,3.0.3,0.25,4,1.0,0.275,0.3088,0.2051
+dominic tarr,2012-08-31,c63def06,commit,use through@1.0.0,-0.25,7,0.55,0.225,0.282,0.0227
+dominic tarr,2012-08-31,ab6ffcd6,commit,3.0.4,0.25,4,0.69,0.225,0.2793,0.0568
+dominic tarr,2012-09-25,c7a5bc96,commit,update through@1.1,-0.25,7,0.302,0.175,0.2539,-0.0691
+dominic tarr,2012-09-25,683bb151,commit,3.0.5,0.25,4,0.4916,0.125,0.2526,-0.0213
+dominic tarr,2012-09-30,413e7d7b,commit,test that pipeline does not duplicate errors,0.75,0,1.0,0.175,0.2741,0.0948
+dominic tarr,2012-09-30,221b169b,commit,pass pipeline test,0.5,0,1.0,0.25,0.2831,0.1556
+dominic tarr,2012-09-30,86545f56,commit,3.0.6,0.25,4,1.0,0.25,0.2803,0.1697
+dominic tarr,2012-09-30,b614c7ab,commit,tidy,0.5,0,1.0,0.25,0.289,0.2193
+dominic tarr,2012-09-30,871f439f,commit,3.0.7,0.25,4,1.0,0.25,0.2859,0.2239
+dominic tarr,2012-10-14,4db6423d,commit,remove optimist as dep,0.25,4,1.0,0.25,0.283,0.2178
+dominic tarr,2012-11-27,8424c27f,commit,refactor out pipeline into stream-combiner,0.25,4,1.0,0.3,0.2802,0.1942
+dominic tarr,2012-11-27,9b1379dd,commit,3.0.8,0.25,4,1.0,0.3,0.2776,0.2025
+dominic tarr,2012-12-12,94156334,commit,3.0.9,0.25,4,1.0,0.35,0.275,0.2001
+dominic tarr,2012-12-13,2052c281,commit,testling badge,0.5,0,1.0,0.375,0.284,0.2445
+dominic tarr,2012-12-13,aad54619,commit,3.0.10,0.25,4,1.0,0.325,0.2812,0.2453
+dominic tarr,2012-12-13,3c0d89d8,commit,testling,0.25,4,1.0,0.3,0.2785,0.246
+dominic tarr,2013-01-06,9fd4300d,commit,update split,0.25,4,1.0,0.3,0.2759,0.2279
+dominic tarr,2013-01-06,5593372d,commit,attempt to port to tape,0.75,0,1.0,0.325,0.2962,0.3062
+dominic tarr,2013-01-06,af2f8ee0,commit,npm run test_tap,0.25,4,1.0,0.325,0.2928,0.2978
+dominic tarr,2013-01-06,552f8678,commit,3.0.11,0.25,4,1.0,0.325,0.2895,0.2906
+dominic tarr,2013-02-05,32342aa8,commit,uupdate split,0.25,4,1.0,0.325,0.2864,0.2577
+dominic tarr,2013-03-09,5fc4a0d3,commit,3.0.12,0.25,4,1.0,0.325,0.2834,0.2313
+dominic tarr,2013-03-27,bd28270e,commit,3.0.13,0.25,4,1.0,0.325,0.2806,0.2207
+dominic tarr,2013-04-22,161bc749,commit,update some modules,-0.25,7,0.55,0.25,0.2552,0.0195
+dominic tarr,2013-04-22,8f655d8a,commit,3.0.14,0.25,4,0.69,0.25,0.2538,0.0541
+dominic tarr,2013-06-18,241994b9,commit,3.0.15,0.25,4,0.802,0.25,0.2525,0.0745
+dominic tarr,2013-07-13,17a9b86e,commit,link to both versions of the stream api docs,0.5,0,1.0,0.275,0.2626,0.1324
+dominic tarr,2013-07-13,52c87151,commit,3.0.16,0.25,4,1.0,0.225,0.2608,0.1501
+dominic tarr,2013-12-04,f5d54080,commit,update map-stream,0.25,4,1.0,0.225,0.2592,0.1109
+dominic tarr,2013-12-04,a79db8ea,commit,3.0.17,0.25,4,1.0,0.225,0.2576,0.1317
+dominic tarr,2013-12-04,ac5e33aa,commit,3.0.18,0.25,4,1.0,0.225,0.2561,0.1495
+dominic tarr,2013-12-11,e052834c,commit,probably some weird streams2 thing,0.75,0,1.0,0.275,0.2773,0.2363
+dominic tarr,2013-12-11,f8e662f1,commit,3.0.20,0.25,4,1.0,0.275,0.2748,0.2383
+dominic tarr,2013-12-11,75bc7a54,commit,use stream-combiner@~0.0.4,0.25,4,1.0,0.325,0.2725,0.2398
+dominic tarr,2013-12-11,0d2d8d79,commit,3.0.21,0.25,4,1.0,0.325,0.2702,0.2413
+dominic tarr,2014-01-09,3055c92a,commit,update map-stream@~0.1.0,0.25,4,1.0,0.325,0.2681,0.2213
+dominic tarr,2014-01-09,e751cab4,commit,3.1.0,0.25,4,1.0,0.3,0.266,0.2256
+dominic tarr,2014-01-09,fd5cd272,commit,test 0.8 and 0.10,0.25,4,1.0,0.3,0.2641,0.2292
+dominic tarr,2014-03-27,0be52aae,commit,3.1.1,0.25,4,1.0,0.3,0.2622,0.1824
+dominic tarr,2014-04-13,8600a654,commit,"depreciate event-stream, pipe has been chainable since node@0.6",0.5,0,1.0,0.325,0.2719,0.2201
+dominic tarr,2014-04-13,93aadc9a,commit,"update all the idioms, thanks @giacecco",0.5,0,1.0,0.35,0.281,0.2621
+dominic tarr,2014-04-13,73a94bb1,commit,3.1.2,0.25,4,1.0,0.3,0.2783,0.2602
+dominic tarr,2014-04-17,1aa630ab,commit,3.1.3,0.25,4,1.0,0.3,0.2757,0.2557
+dominic tarr,2014-04-28,47115e67,commit,3.1.4,0.25,4,1.0,0.3,0.2733,0.2453
+dominic tarr,2014-04-30,28b24d79,commit,3.1.5,0.25,4,1.0,0.3,0.271,0.2448
+dominic tarr,2014-06-19,3d170fce,commit,3.1.6,0.25,4,1.0,0.3,0.2688,0.2088
+dominic tarr,2014-07-21,480c38d0,commit,3.1.7,0.25,4,1.0,0.3,0.2668,0.1948
+dominic tarr,2014-12-27,5c9211ed,commit,npm prepublish script,0.25,4,1.0,0.3,0.2648,0.1272
+dominic tarr,2014-12-27,cc515678,commit,3.2.0,0.25,4,1.0,0.3,0.2629,0.1456
+dominic tarr,2014-12-27,e9e80e75,commit,drop travis support for 0.8,0.25,4,1.0,0.275,0.2611,0.1612
+dominic tarr,2014-12-29,b543bce6,commit,3.2.1,0.25,4,1.0,0.25,0.2594,0.1732
+dominic tarr,2015-02-02,202bf4e0,commit,update split,0.25,4,1.0,0.25,0.2578,0.1664
+dominic tarr,2015-02-02,6bd795a6,commit,3.2.2,0.25,4,1.0,0.25,0.2563,0.1789
+dominic tarr,2015-03-06,c847b369,commit,3.3.0,0.25,4,1.0,0.25,0.2548,0.1719
+dominic tarr,2015-05-06,d3272348,commit,3.3.1,0.25,4,1.0,0.25,0.2535,0.1532
+dominic tarr,2015-10-16,bbcefd4d,commit,3.3.2,0.25,4,1.0,0.25,0.2522,0.107
+dominic tarr,2016-06-18,bdb39080,commit,return from catch,0.5,0,1.0,0.275,0.2623,0.1102
+dominic tarr,2016-06-18,c6867261,commit,3.3.3,0.25,4,1.0,0.275,0.2605,0.1311
+dominic tarr,2016-07-17,0d9d4574,commit,3.3.4,0.25,4,1.0,0.275,0.2589,0.1374

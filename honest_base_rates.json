@@ -1,0 +1,11 @@
+{
+ "n_commits": 26731,
+ "signed": 0.0596,
+ "reviewed": 0.0745,
+ "tests_included": 0.2487,
+ "sensitive": 0.1939,
+ "binary_blob": 0.0048,
+ "new_dependency": 0.0086,
+ "security_weakening": 0.0084,
+ "reverted": 0.0019
+}

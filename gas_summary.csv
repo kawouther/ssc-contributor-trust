@@ -1,0 +1,18 @@
+design,op,n,gas_mean,gas_sd,gas_min,gas_max,spec_exec_ms_mean
+TrustRegistryFull,deploy,1,613555,0,613555,613555,3.5
+TrustRegistryEvent,deploy,1,577046,0,577046,577046,2.3
+TrustAnchorBatch,deploy,1,458670,0,458670,458670,1.8
+TrustRegistryQuorum,deploy,1,833544,0,833544,833544,4.1
+TrustRegistryFull,register,20,94482,4,94471,94483,3.7
+TrustRegistryEvent,register,20,49908,4,49897,49909,3.4
+TrustRegistryQuorum,register,20,49723,4,49712,49724,3.8
+TrustRegistryFull,update,1000,77620,182,77404,77800,4.5
+TrustRegistryEvent,update,1000,32814,182,32598,32994,3.5
+TrustRegistryQuorum,submit,3000,66794,25557,48086,119726,6.6
+TrustRegistryQuorum,update(3 submits),1000,200381,6909,198795,249002,
+TrustRegistryFull,correction,5,77565,6,77558,77570,4.1
+TrustRegistryEvent,correction,5,32409,6,32402,32414,3.1
+All designs,assignReviewers(3),20,29539,7,29521,29545,3.2
+TrustRegistryQuorum,correction,5,32507,6,32500,32512,4.1
+TrustAnchorBatch,anchor(1024 records),10,70739,0,70739,70739,3.1
+TrustAnchorBatch,verify(proof=10),20,36256,29,36200,36290,5.6

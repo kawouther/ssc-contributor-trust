@@ -1,0 +1,554 @@
+[
+ {
+  "policy": "open",
+  "ring": 0,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.995,
+   "sd": 0.004,
+   "ci95": 0.0011,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 0,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": 0.6251,
+   "sd": 0.0254,
+   "ci95": 0.0071,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 0,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": 0.6248,
+   "sd": 0.0257,
+   "ci95": 0.0071,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 2,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.994,
+   "sd": 0.0044,
+   "ci95": 0.0012,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.992,
+   "sd": 0.0063,
+   "ci95": 0.0017,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 2,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": 0.3069,
+   "sd": 0.0255,
+   "ci95": 0.0071,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0047,
+   "sd": 0.0086,
+   "ci95": 0.0024,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.8724,
+   "sd": 0.0534,
+   "ci95": 0.0148,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 2,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": 0.2863,
+   "sd": 0.0183,
+   "ci95": 0.0051,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.002,
+   "sd": 0.0053,
+   "ci95": 0.0015,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.8877,
+   "sd": 0.0447,
+   "ci95": 0.0124,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 5,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.9937,
+   "sd": 0.0046,
+   "ci95": 0.0013,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.999,
+   "sd": 0.0015,
+   "ci95": 0.0004,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 5,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": 0.0487,
+   "sd": 0.016,
+   "ci95": 0.0044,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.3104,
+   "sd": 0.0851,
+   "ci95": 0.0236,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9894,
+   "sd": 0.0062,
+   "ci95": 0.0017,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 5,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": 0.0828,
+   "sd": 0.0145,
+   "ci95": 0.004,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0989,
+   "sd": 0.0537,
+   "ci95": 0.0149,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9952,
+   "sd": 0.0055,
+   "ci95": 0.0015,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 10,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.9927,
+   "sd": 0.0048,
+   "ci95": 0.0013,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9993,
+   "sd": 0.0009,
+   "ci95": 0.0003,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 10,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": -0.0563,
+   "sd": 0.0145,
+   "ci95": 0.004,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.8758,
+   "sd": 0.0364,
+   "ci95": 0.0101,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.991,
+   "sd": 0.0032,
+   "ci95": 0.0009,
+   "n": 50
+  }
+ },
+ {
+  "policy": "open",
+  "ring": 10,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": -0.0416,
+   "sd": 0.015,
+   "ci95": 0.0041,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.7633,
+   "sd": 0.0922,
+   "ci95": 0.0256,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9974,
+   "sd": 0.0022,
+   "ci95": 0.0006,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 0,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.995,
+   "sd": 0.004,
+   "ci95": 0.0011,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 0,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": 0.6251,
+   "sd": 0.0254,
+   "ci95": 0.0071,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 0,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": 0.6248,
+   "sd": 0.0257,
+   "ci95": 0.0071,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 2,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.9942,
+   "sd": 0.0042,
+   "ci95": 0.0012,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9989,
+   "sd": 0.0027,
+   "ci95": 0.0008,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 2,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": 0.5895,
+   "sd": 0.0252,
+   "ci95": 0.007,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.8871,
+   "sd": 0.0431,
+   "ci95": 0.0119,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 2,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": 0.5882,
+   "sd": 0.0245,
+   "ci95": 0.0068,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.8898,
+   "sd": 0.0426,
+   "ci95": 0.0118,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 5,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.9952,
+   "sd": 0.0034,
+   "ci95": 0.0009,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9981,
+   "sd": 0.0023,
+   "ci95": 0.0006,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 5,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": 0.5321,
+   "sd": 0.0226,
+   "ci95": 0.0063,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9114,
+   "sd": 0.0212,
+   "ci95": 0.0059,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 5,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": 0.5327,
+   "sd": 0.0222,
+   "ci95": 0.0061,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9136,
+   "sd": 0.0202,
+   "ci95": 0.0056,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 10,
+  "model": "M34",
+  "target_mean": {
+   "mean": 0.9957,
+   "sd": 0.0027,
+   "ci95": 0.0008,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9988,
+   "sd": 0.0012,
+   "ci95": 0.0003,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 10,
+  "model": "Proposed",
+  "target_mean": {
+   "mean": 0.4576,
+   "sd": 0.0261,
+   "ci95": 0.0072,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9396,
+   "sd": 0.015,
+   "ci95": 0.0042,
+   "n": 50
+  }
+ },
+ {
+  "policy": "assigned",
+  "ring": 10,
+  "model": "Proposed (rep: mean)",
+  "target_mean": {
+   "mean": 0.4609,
+   "sd": 0.0255,
+   "ci95": 0.0071,
+   "n": 50
+  },
+  "target_flag_rate": {
+   "mean": 0.0,
+   "sd": 0.0,
+   "ci95": 0.0,
+   "n": 50
+  },
+  "sybil_L2_rate": {
+   "mean": 0.9429,
+   "sd": 0.0136,
+   "ci95": 0.0038,
+   "n": 50
+  }
+ }
+]
